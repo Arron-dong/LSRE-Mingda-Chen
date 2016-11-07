@@ -24,17 +24,33 @@ keyword: 1. large scale requirements engineering
 database: BTH library
 
 AR1: Ruhe, Gunther, and Moshood Omolade Saliu. "The art and science of software release planning." IEEE Software 22.6 (2005): 47-53.
+
 SUM1: Release planning is used to select and assign the feature in product releases, which need to satisfy the factor of technique, resource, budget, risk and so on, a good release planning need to provide the best business value of development, satisfy the most important stakeholders and should be feasible in recent resource and should show the dependency of different features. So it's very difficult to make a release plan. There are two way to make the release plan, art way or science way.
 Art way means, that the release plan is based on human ability and experience, in Agile, RP pay attention to the next duration, but with the increase of stakeholders and constraints, it will become unsuitable.
 Science way means, using modeling to solve the problem, we need consider about feature, dependencies between features, resource constraints, the importance of stakeholders, the prioritization of features and also the objective function when we are modeling.
 Author come out with a new way that using science way to create several solution and let the human judge which solution is best by experience. There will be three steps of this solution: modeling, exploration and consolidation.
 
 
-AR2:
-SUM2:
+AR2: Svensson, Richard Berntsson, and Bjorn Regnell. "A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements." Requirements Engineering: Foundation for Software Quality (2015).
 
-AR3:
-SUM3:
+SUM2: In MDSD, almost all the method and approach used to make RP didn't consider about the Quality Requirements. But QUPER model consider about how to deal with the Quality Requirement. QUPER model is used to face the challenge about the fast software development technology, and also increase the importance of QR in the company in order to help company get more market competitiveness.
+There are two main factor that promote the development of QUPER model. First is the direct need identified in industry. Second is that there are no suitable model found in the literature. And also when the company deal with the QR and the RP of QR, they cannot find a suitbale model to judge it. So there is a great need to promote the development of QUPER.
+There are several steps of QUPER model.
+step1. Identify the QR(consider about the features, market, hardware or competitor)
+step2. Define a scale and unit for QR(used to judge the quality of QR)
+step3. Identify  reference levels.(Point  estimates including a single ﬁgure, Interval  estimates including a [min,  max] interval,  Triangle  distribution  estimates including a three-tuple of [low bund, most probable,high bound])
+step4. Elicit quality breakpoints(the lowest acceptable value on the market)
+step5. Estimate cost barriers(to estimate the budget for each QR, author think two CB are better, one for software change, anthor for the new hardware or something influence the whole software architecture)
+step6. Set candidate requirements
+step7. Identify cost dependencies
+And throught a case study of large company operating in a market-driven RE context using a product line approach.
+And the conclution from the case study is that QUPER model is feasible and scalability in the company to improve the measurement of QR and also improve the company's market competitiveness.
+
+
+AR3:Richard Berntsson Svensson, Thomas Olsson, Bjorn Regnell. "Introducing Support for Release Planning of Quality Requirements – An Industrial Evaluation of the QUPER Model.", 2008
+SUM3: market-driven product development and release planning is becoming more important and common in recenct software company. But the project management is more difficult since the complex of software project. And a good release plan can directly influence the success of product. And to earn more in market and also to improve the company's competitiveness, the company should pay attention to the Quality requirement of the product. That's the reason that QUPER model is needed.
+There are three steps of QUPER model of the two case of company:
+Step 1: Problem definition. focus on the different requirement of two case company to identify the cost-benefit model of quality requiremnt
 
 AR4:
 SUM4:
