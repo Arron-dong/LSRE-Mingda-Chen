@@ -50,7 +50,13 @@ And the conclution from the case study is that QUPER model is feasible and scala
 AR3:Richard Berntsson Svensson, Thomas Olsson, Bjorn Regnell. "Introducing Support for Release Planning of Quality Requirements – An Industrial Evaluation of the QUPER Model.", 2008
 SUM3: market-driven product development and release planning is becoming more important and common in recenct software company. But the project management is more difficult since the complex of software project. And a good release plan can directly influence the success of product. And to earn more in market and also to improve the company's competitiveness, the company should pay attention to the Quality requirement of the product. That's the reason that QUPER model is needed.
 There are three steps of QUPER model of the two case of company:
-Step 1: Problem definition. focus on the different requirement of two case company to identify the cost-benefit model of quality requiremnt
+Step 1: Problem definition. Focus on the different requirement of two case company to identify the cost-benefit model of quality requiremnt
+Step 2: Model definition. Including three views: a benefit view, a cost view and a roadmap view.
+        Benefit view: Used to indicate principal changes in the benefit level with respect to user experience and market value
+        Cost view: Used to show ther cost barriers of non-linear relationship between cost and quality
+        Roadmap view: Combine the benefit view and cost view to show the 
+Step 3: Model validation. An evaluation of the model.
+
 
 AR4:
 SUM4:
