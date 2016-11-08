@@ -16,6 +16,8 @@ Q3: What is the order of magnitude of the number of requirements we are
 discussing?
 Q4: Read up on and summarise [Strategic] Release Planning
 
+
+
 Search Log
 keyword: 1. large scale requirements engineering
          2. requirements engineering
@@ -23,12 +25,15 @@ keyword: 1. large scale requirements engineering
          4. Release planning
 database: BTH library
 
+
+
 AR1: Ruhe, Gunther, and Moshood Omolade Saliu. "The art and science of software release planning." IEEE Software 22.6 (2005): 47-53.
 
 SUM1: Release planning is used to select and assign the feature in product releases, which need to satisfy the factor of technique, resource, budget, risk and so on, a good release planning need to provide the best business value of development, satisfy the most important stakeholders and should be feasible in recent resource and should show the dependency of different features. So it's very difficult to make a release plan. There are two way to make the release plan, art way or science way.
 Art way means, that the release plan is based on human ability and experience, in Agile, RP pay attention to the next duration, but with the increase of stakeholders and constraints, it will become unsuitable.
 Science way means, using modeling to solve the problem, we need consider about feature, dependencies between features, resource constraints, the importance of stakeholders, the prioritization of features and also the objective function when we are modeling.
 Author come out with a new way that using science way to create several solution and let the human judge which solution is best by experience. There will be three steps of this solution: modeling, exploration and consolidation.
+
 
 
 AR2: Svensson, Richard Berntsson, and Bjorn Regnell. "A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements." Requirements Engineering: Foundation for Software Quality (2015).
@@ -47,7 +52,9 @@ And throught a case study of large company operating in a market-driven RE conte
 And the conclution from the case study is that QUPER model is feasible and scalability in the company to improve the measurement of QR and also improve the company's market competitiveness.
 
 
+
 AR3:Richard Berntsson Svensson, Thomas Olsson, Bjorn Regnell. "Introducing Support for Release Planning of Quality Requirements – An Industrial Evaluation of the QUPER Model.", 2008
+
 SUM3: market-driven product development and release planning is becoming more important and common in recenct software company. But the project management is more difficult since the complex of software project. And a good release plan can directly influence the success of product. And to earn more in market and also to improve the company's competitiveness, the company should pay attention to the Quality requirement of the product. That's the reason that QUPER model is needed.
 There are three steps of QUPER model of the two case of company:
 Step 1: Problem definition. Focus on the different requirement of two case company to identify the cost-benefit model of quality requiremnt
@@ -56,9 +63,20 @@ Step 2: Model definition. Including three views: a benefit view, a cost view and
         Cost view: Used to show ther cost barriers of non-linear relationship between cost and quality
         Roadmap view: Combine the benefit view and cost view to show the 
 Step 3: Model validation. An evaluation of the model.
+These steps are the generic, but for different case, there should be some change. For example, for the Sony Ericsson case. It can be change to following steps:
+step 1: Define quality
+step 2: Estimate current quality also the competing one
+step 3: Estimate the breakpoint
+step 4: Discuss the actual targets
+And follow these steps and after the research on the Sony Ericsson case. Authors come out with a solution that:
+1. The QUPER model is easy to use and learn, not very complex, and good for discussing between team members.
+2. The QUPER model is useful and related when the company make high level decision of quality requirements in the release planning.
+3. The main challenge of the QUPER model is that it's difficult to identify and specify the values for the differentiation and saturation breakpoints.
 
 
-AR4:
+
+AR4:Regnell, Bjorn, Per Beremark, and Ola Eklundh. "A market-driven requirements engineering process: Results from an industrial process improvement programme." Requirements Engineering 3.2 (1998): 121-129.
+
 SUM4:
 
 
