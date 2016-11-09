@@ -33,7 +33,10 @@ SUM1: Release planning is used to select and assign the feature in product relea
 Art way means, that the release plan is based on human ability and experience, in Agile, RP pay attention to the next duration, but with the increase of stakeholders and constraints, it will become unsuitable.
 Science way means, using modeling to solve the problem, we need consider about feature, dependencies between features, resource constraints, the importance of stakeholders, the prioritization of features and also the objective function when we are modeling.
 Author come out with a new way that using science way to create several solution and let the human judge which solution is best by experience. There will be three steps of this solution: modeling, exploration and consolidation.
-
+1. Modeling: Plan the objectives and constraints of the problem, offer the stakeholder to voting it, and finally estimate the current resources.
+2. Exploration: Author developed specialized integer programming algorithms find solution.
+3. Consolidation: The manager decide the solution based on his experience and context of the problem, also the manager can simulate some problem in the real development to think about the solution.
+But the practical effect of this approach still need some experiment to prove.
 
 
 AR2: Svensson, Richard Berntsson, and Bjorn Regnell. "A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements." Requirements Engineering: Foundation for Software Quality (2015).
@@ -84,6 +87,16 @@ SUM4: This article mainly describe a specific industrial RE process for packaged
 4. Construction team: The team which is response for designing and implementing the requirements.
 5. Test team: The team which is response for verifying the requirement.
 6. Expert: The person who evaluate the requirement in depth.
+And there are five different phases of the REPEAT process:
+1. Elicitation Phase: there will be two main things in this phase, collectiong and classification, collect the requirement make by an issuer and also submit it for storage in Requirement Database
+2. Selection Phase: there will be two main things in this phase, first is to select the requirement which will be implemented in the current release, and second is to specify the selected requirements, and also validate the RQ document.
+3. Change Management in parallel with Construction & Verification: the requirement management group should make a decision on changing the RD which is caused by some new requirement or high-priority requirment which may influence some development process such as construction and verification.
+4. Conclution: make the conclution about requirement management in the current phase.
+The conclution of this article is that REPEAT is a good way to manage the requirement, the REPEAT will inprovement the quality of product, the release precision, the effort estimation and specification of requirments. 
+
+
+
+
 
 • At Least, read and summarise:
 – Ruhe “The art and science of release planning”, plus some more recent
