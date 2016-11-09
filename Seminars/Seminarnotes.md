@@ -94,6 +94,21 @@ And there are five different phases of the REPEAT process:
 4. Conclution: make the conclution about requirement management in the current phase.
 The conclution of this article is that REPEAT is a good way to manage the requirement, the REPEAT will inprovement the quality of product, the release precision, the effort estimation and specification of requirments. 
 
+Q1: What is large scale requirements engineering?
+A1: Large scale requirement engineering means using proven techniques to perform the analysis of large number of requirements and identify customers needs, help the analysts understand the problems, define all the external features of the target large and complex system. LSRE describes the system to be developed and its behavior characterisitics and related constraints through appropriate tools and notation. LSRE will froms the requirement document, and supports the evolving needs of the users. LSRE is an iterative process of defining requirements, documenting records, evolving requirements and finally decide the requirements on the basis of validation.
+
+Q2: What are the challenges in large scale requirements engineering?
+A2: 1. The complex system bring large number of requirements to deal with. 
+    2. Lack of domain knowledge and the problems of the area always be inaccurate.
+    3. Conflicts between multiple knowledge sources.
+    4. The customers can't provide the things you want to know.
+    5.
+
+Q3: What is the order of magnitude of the number of requirements we are
+discussing?
+A3：Thousand or more, the system will be developed should be large and complex.
+
+Q4: Read up on and summarise [Strategic] Release Planning
 
 
 
