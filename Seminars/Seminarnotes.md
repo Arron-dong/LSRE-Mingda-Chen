@@ -102,13 +102,25 @@ A2: 1. The complex system bring large number of requirements to deal with.
     2. Lack of domain knowledge and the problems of the area always be inaccurate.
     3. Conflicts between multiple knowledge sources.
     4. The customers can't provide the things you want to know.
-    5.
+    5. New releases through the projects will come out with lots of problem.
+    6. Too much requiremetns stored in the requiremens database.
+    7. Distributed development will lead to lots of problem.
+    8. Uncertainty and frequently change.
+    9. Time pressure.
+    10. Multiple levels of abstraction.
 
 Q3: What is the order of magnitude of the number of requirements we are
 discussing?
-A3：Thousand or more, the system will be developed should be large and complex.
+A3：Thousands or more, the system will be developed should be large and complex.
 
 Q4: Read up on and summarise [Strategic] Release Planning
+A4: Release planning is to make a plan for delivering the different requirement of the whole system which will be developed. All the stakeholders need to participated in the release planning to ensure the quality of plan in different aspect. And then the release planning will be used to make iteration plan for each individual iteration. There are several main target of release planning:
+   1. Make the target of this release.
+   2. Define the business background and competitive environment.
+   3. Define the current status of product.
+   4. Sort out the backlog of the product
+   5. Locate and discuss issues.
+And the output is the release plan, new items which should be put into release backlog, and advice to improve future plan.
 
 
 
