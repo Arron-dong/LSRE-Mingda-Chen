@@ -77,8 +77,13 @@ And follow these steps and after the research on the Sony Ericsson case. Authors
 
 AR4:Regnell, Bjorn, Per Beremark, and Ola Eklundh. "A market-driven requirements engineering process: Results from an industrial process improvement programme." Requirements Engineering 3.2 (1998): 121-129.
 
-SUM4:
-
+SUM4: This article mainly describe a specific industrial RE process for packaged software, called REPEAT (Requirements Engineering ProcEss At Telelogic. REPEAT is a requirements enginnering process which can be used to manage the requirement in the release cycle.And REPEAT is focus on how to select the requirement and also the release planning. There are several actors in the REPEAT:
+1. Requirement management group: Manage the requirement and make a decision on which requirement should be developed.
+2. Issuer: A stakeholder which can submit a requirement to the Requirement management group.
+3. Requirements team: The team which is response for analysing and specifying the requirements.
+4. Construction team: The team which is response for designing and implementing the requirements.
+5. Test team: The team which is response for verifying the requirement.
+6. Expert: The person who evaluate the requirement in depth.
 
 • At Least, read and summarise:
 – Ruhe “The art and science of release planning”, plus some more recent
