@@ -142,7 +142,7 @@ A2:
     3. Conflicts between multiple knowledge sources.
     4. The customers can't provide the things you want to know.
     5. New releases through the projects will come out with lots of problem.
-    6. Too much requiremetns stored in the requiremens database.
+    6. Too much requirements stored in the requiremens database.
     7. Distributed development will lead to lots of problem.
     8. Uncertainty and frequently change.
     9. Time pressure.
