@@ -1,21 +1,69 @@
-
+Seminars One
 ———————————————————————————————————————————————————————
-Seminar One:
 
 
 Q1: What is large scale requirements engineering?
 
 
+A1: Large scale requirement engineering means using proven techniques to perform the analysis of large number of requirements and identify customers needs, help the analysts understand the problems, define all the external features of the target which is the large and complex system. LSRE describes the system to be developed and its behavior characterisitics and related constraints through appropriate tools and notation. LSRE will forms the requirement document, and supports the evolving needs of the users. LSRE is an iterative process of defining requirements, documenting records, evolving requirements and finally decide the requirements on the basis of validation.
+
+
+———————————————————————————————————————————————————————
+
+
 Q2: What are the challenges in large scale requirements engineering?
+
+
+A2: 
+    
+    1. The complex system bring large number of requirements to deal with. 
+    2. Lack of domain knowledge and the problems of the area always be inaccurate.
+    3. The pressure of time.
+    4. The customers can't provide the things you want to know.
+    5. New releases through the projects will come out with lots of problem.
+    6. Too much requirements stored in the requiremens database.
+    7. Distributed development will lead to lots of problem.
+    8. Uncertainty and frequently change.
+    9. Conflicts between multiple knowledge sources
+    10. Multiple stakeholders to consider about
+
+
+———————————————————————————————————————————————————————
 
 
 Q3: What is the order of magnitude of the number of requirements we are
 discussing?
 
 
+A3：Thousands or more, the system will be developed should be large and complex.
+
+
+———————————————————————————————————————————————————————
+
+
 Q4: Read up on and summarise [Strategic] Release Planning
 
-                 
+
+A4: Release planning is to make a plan for delivering the different requirement of the whole system which will be developed. All the stakeholders need to participated in the release planning to ensure the quality of plan in different aspect. And then the release planning will be used to make iteration plan for each individual iteration. There are several main target of release planning:
+   
+      1. Make the target of this release.
+      2. Define the business background and competitive environment.
+      3. Define the current status of product.
+      4. Sort out the backlog of the product
+      5. Locate and discuss issues.
+And the output is the release plan, new items which should be put into release backlog, and advice to improve future plan.
+
+
+———————————————————————————————————————————————————————
+
+Reference：
+
+      1.Ruhe, Gunther, and Moshood Omolade Saliu. "The art and science of software release planning." IEEE Software 22.6 (2005): 47-53.
+      2.Svensson, Richard Berntsson, and Bjorn Regnell. "A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements." Requirements Engineering: Foundation for Software Quality (2015).
+      3.Richard Berntsson Svensson, Thomas Olsson, Bjorn Regnell. "Introducing Support for Release Planning of Quality Requirements – An Industrial Evaluation of the QUPER Model.", 2008
+      4.Regnell, Bjorn, Per Beremark, and Ola Eklundh. "A market-driven requirements engineering process: Results from an industrial process improvement programme." Requirements Engineering 3.2 (1998): 121-129.
+      5.Luiz Marcio Cysneiros, Eric Yu, " Requirement engineering for large-scale multi-agent systems", April 2003.
+      6.An Ngo-The, Günther Ruhe, " Optimized Resource Allocation for Software Release Planning", IEEE Transactions on Software Engineering 2009 vol.35: 109-123.
 ———————————————————————————————————————————————————————
 
 Search Log
@@ -23,10 +71,10 @@ Search Log
 
 keyword: 
 
-         1. large scale requirements engineering
-         2. requirements engineering
-         3. requirements engineering magnitude       
-         4. Release planning
+      1. large scale requirements engineering
+      2. requirements engineering
+      3. requirements engineering magnitude       
+      4. Release planning
 
 
 database: BTH library
@@ -46,6 +94,7 @@ Author come out with a new way that combine two ways, using science way to creat
       1. Modeling: Plan the objectives and constraints of the problem, offer the stakeholder to voting it, and finally estimate the current resources.
       2. Exploration: Author developed specialized integer programming algorithms find solution.
       3. Consolidation: The manager decide the solution based on his experience and context of the problem, also the manager can simulate some problem in the real development to think about the solution.
+And the science way is a tool to create solution, but the final decision will be made by the project manager.
 But the practical effect of this approach still need some experiment to prove.
 
 
@@ -118,64 +167,5 @@ And there are five different phases of the REPEAT process:
       3. Change Management in parallel with Construction & Verification: the requirement management group should make a decision on changing the RD which is caused by some new requirement or high-priority requirment which may influence some development process such as construction and verification.
       4. Conclution: make the conclution about requirement management in the current phase.
 The conclution of this article is that REPEAT is a good way to manage the requirement, the REPEAT will inprovement the quality of product, the release precision, the effort estimation and specification of requirments. 
-
-
-———————————————————————————————————————————————————————
-
-
-Q1: What is large scale requirements engineering?
-
-
-A1: Large scale requirement engineering means using proven techniques to perform the analysis of large number of requirements and identify customers needs, help the analysts understand the problems, define all the external features of the target large and complex system. LSRE describes the system to be developed and its behavior characterisitics and related constraints through appropriate tools and notation. LSRE will froms the requirement document, and supports the evolving needs of the users. LSRE is an iterative process of defining requirements, documenting records, evolving requirements and finally decide the requirements on the basis of validation.
-
-
-———————————————————————————————————————————————————————
-
-
-Q2: What are the challenges in large scale requirements engineering?
-
-
-A2: 
-    
-    1. The complex system bring large number of requirements to deal with. 
-    2. Lack of domain knowledge and the problems of the area always be inaccurate.
-    3. Conflicts between multiple knowledge sources.
-    4. The customers can't provide the things you want to know.
-    5. New releases through the projects will come out with lots of problem.
-    6. Too much requirements stored in the requiremens database.
-    7. Distributed development will lead to lots of problem.
-    8. Uncertainty and frequently change.
-    9. Time pressure.
-    10. Multiple levels of abstraction.
-    11. Multiple stakeholders to consider about
-
-
-———————————————————————————————————————————————————————
-
-
-Q3: What is the order of magnitude of the number of requirements we are
-discussing?
-
-
-A3：Thousands or more, the system will be developed should be large and complex.
-
-
-———————————————————————————————————————————————————————
-
-
-Q4: Read up on and summarise [Strategic] Release Planning
-
-
-A4: Release planning is to make a plan for delivering the different requirement of the whole system which will be developed. All the stakeholders need to participated in the release planning to ensure the quality of plan in different aspect. And then the release planning will be used to make iteration plan for each individual iteration. There are several main target of release planning:
-   
-      1. Make the target of this release.
-      2. Define the business background and competitive environment.
-      3. Define the current status of product.
-      4. Sort out the backlog of the product
-      5. Locate and discuss issues.
-And the output is the release plan, new items which should be put into release backlog, and advice to improve future plan.
-
-
-———————————————————————————————————————————————————————
 
 
