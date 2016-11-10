@@ -15,15 +15,24 @@ discussing?
 
 Q4: Read up on and summarise [Strategic] Release Planning
 
-
+                 
+———————————————————————————————————————————————————————
 
 Search Log
-keyword: 1. large scale requirements engineering
-         2. requirements engineering
-         3. requirements engineering magnitude
+
+
+keyword: 
+
+         1. large scale requirements engineering
+         2. requirements engineering
+         3. requirements engineering magnitude       
          4. Release planning
+
+
 database: BTH library
 
+
+———————————————————————————————————————————————————————
 
 
 AR1: Ruhe, Gunther, and Moshood Omolade Saliu. "The art and science of software release planning." IEEE Software 22.6 (2005): 47-53.
