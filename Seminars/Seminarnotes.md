@@ -59,13 +59,13 @@ SUM2: In MDSD, almost all the method and approach used to make RP didn't conside
 There are two main factor that promote the development of QUPER model. First is the direct need identified in industry. Second is that there are no suitable model found in the literature. And also when the company deal with the QR and the RP of QR, they cannot find a suitbale model to judge it. So there is a great need to promote the development of QUPER.
 There are several steps of QUPER model.
        
-       Step1. Identify the QR(consider about the features, market, hardware or competitor)
-       Step2. Define a scale and unit for QR(used to judge the quality of QR)
-       Step3. Identify  reference levels.(Point  estimates including a single ﬁgure, Interval  estimates including a [min,  max] interval,  Triangle  distribution  estimates including a three-tuple of [low bund, most probable,high bound])
-       Step4. Elicit quality breakpoints(the lowest acceptable value on the market)
-       Step5. Estimate cost barriers(to estimate the budget for each QR, author think two CB are better, one for software change, anthor for the new hardware or something influence the whole software architecture)
-       Step6. Set candidate requirements
-       Step7. Identify cost dependencies
+      Step1. Identify the QR(consider about the features, market, hardware or competitor)
+      Step2. Define a scale and unit for QR(used to judge the quality of QR)
+      Step3. Identify  reference levels.(Point  estimates including a single ﬁgure, Interval  estimates including a [min,  max] interval,  Triangle  distribution  estimates including a three-tuple of [low bund, most probable,high bound])
+      Step4. Elicit quality breakpoints(the lowest acceptable value on the market)
+      Step5. Estimate cost barriers(to estimate the budget for each QR, author think two CB are better, one for software change, anthor for the new hardware or something influence the whole software architecture)
+      Step6. Set candidate requirements
+      Step7. Identify cost dependencies
 And throught a case study of large company operating in a market-driven RE context using a product line approach.
 And the conclution from the case study is that QUPER model is feasible and scalability in the company to improve the measurement of QR and also improve the company's market competitiveness.
 
@@ -136,7 +136,7 @@ Q2: What are the challenges in large scale requirements engineering?
 
 
 A2: 
-
+    
     1. The complex system bring large number of requirements to deal with. 
     2. Lack of domain knowledge and the problems of the area always be inaccurate.
     3. Conflicts between multiple knowledge sources.
@@ -167,11 +167,11 @@ Q4: Read up on and summarise [Strategic] Release Planning
 
 A4: Release planning is to make a plan for delivering the different requirement of the whole system which will be developed. All the stakeholders need to participated in the release planning to ensure the quality of plan in different aspect. And then the release planning will be used to make iteration plan for each individual iteration. There are several main target of release planning:
    
-   1. Make the target of this release.
-   2. Define the business background and competitive environment.
-   3. Define the current status of product.
-   4. Sort out the backlog of the product
-   5. Locate and discuss issues.
+      1. Make the target of this release.
+      2. Define the business background and competitive environment.
+      3. Define the current status of product.
+      4. Sort out the backlog of the product
+      5. Locate and discuss issues.
 And the output is the release plan, new items which should be put into release backlog, and advice to improve future plan.
 
 
