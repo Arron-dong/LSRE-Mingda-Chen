@@ -180,3 +180,8 @@ The conclution of this article is that REPEAT is a good way to manage the requir
 Good: This article detail describe the REPEAT process, from the actors to the phases and also use some process enactment scenarios to show how to deal with the problem in real project. And the conclution of this article is based on both theoretical knowledge and practical results.
 
 Bad: Only one thing bad I think, this article did not decribe the current status at first, in other words, the reason why REPEAT is important is not adequate.
+
+———————————————————————————————————————————————————————
+
+Seminars One
+———————————————————————————————————————————————————————
