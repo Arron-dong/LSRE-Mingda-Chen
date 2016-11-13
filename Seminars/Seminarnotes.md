@@ -97,9 +97,9 @@ Author come out with a new way that combine two ways, using science way to creat
 And the science way is a tool to create solution, but the final decision will be made by the project manager.
 But the practical effect of this approach still need some experiment to prove.
 
-Good: 
+Good: This article first of all describe the current status of software development, and describe the importance of release planning, to come out with the new approach, the author describe the pros and cons of both Art way and Science way. And also author give a very detail description of his new approach.
 
-Bad:
+Bad: I think the only bad for this article is the limitation of the new approach is missed, the author didn't discuss the limitaion of this new approach and also he ignore the influence of the number of release.
 
 ———————————————————————————————————————————————————————
 
@@ -121,6 +121,9 @@ There are several steps of QUPER model.
 And throught a case study of large company operating in a market-driven RE context using a product line approach.
 And the conclution from the case study is that QUPER model is feasible and scalability in the company to improve the measurement of QR and also improve the company's market competitiveness.
 
+Good: This article fully describe the reason why we need some new model to let the reader notice the importance of QUPER model, and detail describe the steps and principles of QUPER model, also the case study show the effect of QUPER model.
+
+Bad: This article just describe the common steps of QUPER model, but as we know, common steps may be not suitable for every situation. So in the case study, I think the author should discuss the change of QUPER model when we are facing real situation.
 
 ———————————————————————————————————————————————————————
  
@@ -149,6 +152,9 @@ And follow these steps and after the research on the Sony Ericsson case. Authors
       2. The QUPER model is useful and related when the company make high level decision of quality requirements in the release planning.
       3. The main challenge of the QUPER model is that it's difficult to identify and specify the values for the differentiation and saturation breakpoints.
 
+Good: Same as the last article, this article discuss the reason of why we need QUPER model at first, and this article is mainly focus on the real case, we can see the author make some change to let QUPER model can be very suitable for different situation. That is what I think best.
+
+Bad: Too less description of QUPER model itself. So I suggest to read this article and the last article together to make full understanding of QUPER model.
 
 ———————————————————————————————————————————————————————
 
@@ -171,4 +177,6 @@ And there are five different phases of the REPEAT process:
       4. Conclution: make the conclution about requirement management in the current phase.
 The conclution of this article is that REPEAT is a good way to manage the requirement, the REPEAT will inprovement the quality of product, the release precision, the effort estimation and specification of requirments. 
 
+Good:
 
+Bad:
