@@ -97,6 +97,9 @@ Author come out with a new way that combine two ways, using science way to creat
 And the science way is a tool to create solution, but the final decision will be made by the project manager.
 But the practical effect of this approach still need some experiment to prove.
 
+Good: 
+
+Bad:
 
 ———————————————————————————————————————————————————————
 
