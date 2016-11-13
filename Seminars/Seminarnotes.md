@@ -185,5 +185,10 @@ A2: There are lots of tools are available for Continuous Integration, for exampl
 
 Q3: What is technical product management?
 
-A2: There are lots of tools are available for Continuous Integration, for example, CruiseControl, LuntBuild, TeamCity, Bamboo, QuickBuild, Hudson and so on. And from the selection of several free tools, I download the QuickBuild for trying. After I trying it, I find out that QuickBuild is little bit different from other tools, first of all, QuickBuild doesn't have the concept of project, QuickBuild use configuration instead, but to be honest, I didn't understand very well about the configuration, but I think it's similar with the root node of tree. The three main processes in the QuickBuild are CheckOut, Build, Publish Artifacts. And since the QuickBuild is based on configuration, so I can set child node to make the tree structure of project. Because I just download the free version of QuickBuild, so I just can set max 16 configuration. And also QuickBuild can simply copy the configuration, it's very convenient to use.
+A3: Technical product management is a kind of product management way that requires the managers have technical background. Regular product manager can be familar with the management of project and also have some experience, but without the technical background. There will be some problems when working together with the developer. And the technical product manager do not need to design or develop the software since they are actually the product management role working together with the software development team. Technical product management is an approach that let the product manager have more knowledge about the real development work. So the manager can manage the process more reasonable and efficient, and improve the plan with his knowledge, technical skills and experience. And Technical product management should focus on the business side of role. As we said before, techincal product manager have technical skills, so the communication between manager roles and development rolos will be easier.
     
+———————————————————————————————————————————————————————
+
+Q4: What is roadmapping? How can you do it large scale?
+
+A4: 
