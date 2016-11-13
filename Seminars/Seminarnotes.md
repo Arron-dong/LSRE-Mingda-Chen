@@ -161,7 +161,7 @@ Bad: Too less description of QUPER model itself. So I suggest to read this artic
 AR4:Regnell, Bjorn, Per Beremark, and Ola Eklundh. "A market-driven requirements engineering process: Results from an industrial process improvement programme." Requirements Engineering 3.2 (1998): 121-129.
 
 
-SUM4: This article mainly describe a specific industrial RE process for packaged software, called REPEAT (Requirements Engineering ProcEss At Telelogic. REPEAT is a requirements enginnering process which can be used to manage the requirement in the release cycle.And REPEAT is focus on how to select the requirement and also the release planning. There are several actors in the REPEAT:
+SUM4: This article mainly describe a specific industrial RE process for packaged software, called REPEAT (Requirements Engineering Process at Telelogic. REPEAT is a requirements enginnering process which can be used to manage the requirement in the release cycle.And REPEAT is focus on how to select the requirement and also the release planning. There are several actors in the REPEAT:
       
       1. Requirement management group: Manage the requirement and make a decision on which requirement should be developed.
       2. Issuer: A stakeholder which can submit a requirement to the Requirement management group.
@@ -177,6 +177,6 @@ And there are five different phases of the REPEAT process:
       4. Conclution: make the conclution about requirement management in the current phase.
 The conclution of this article is that REPEAT is a good way to manage the requirement, the REPEAT will inprovement the quality of product, the release precision, the effort estimation and specification of requirments. 
 
-Good:
+Good: This article detail describe the REPEAT process, from the actors to the phases and also use some process enactment scenarios to show how to deal with the problem in real project. And the conclution of this article is based on both theoretical knowledge and practical results.
 
-Bad:
+Bad: Only one thing bad I think, this article did not decribe the current status at first, in other words, the reason why REPEAT is important is not adequate.
