@@ -1,18 +1,13 @@
 Seminars One
 ———————————————————————————————————————————————————————
 
-
 Q1: What is large scale requirements engineering?
-
 
 A1: Large scale requirement engineering means using proven techniques to perform the analysis of large number of requirements and identify customers needs, help the analysts understand the problems, define all the external features of the target which is the large and complex system. LSRE describes the system to be developed and its behavior characterisitics and related constraints through appropriate tools and notation. LSRE will forms the requirement document, and supports the evolving needs of the users. LSRE is an iterative process of defining requirements, documenting records, evolving requirements and finally decide the requirements on the basis of validation.
 
-
 ———————————————————————————————————————————————————————
 
-
 Q2: What are the challenges in large scale requirements engineering?
-
 
 A2: 
     
@@ -27,22 +22,16 @@ A2:
     9. Conflicts between multiple knowledge sources
     10. Multiple stakeholders to consider about
 
-
 ———————————————————————————————————————————————————————
-
 
 Q3: What is the order of magnitude of the number of requirements we are
 discussing?
 
-
 A3：Thousands or more, the system will be developed should be large and complex.
-
 
 ———————————————————————————————————————————————————————
 
-
 Q4: Read up on and summarise [Strategic] Release Planning
-
 
 A4: Release planning is to make a plan for delivering the different requirement of the whole system which will be developed. All the stakeholders need to participated in the release planning to ensure the quality of plan in different aspect. And then the release planning will be used to make iteration plan for each individual iteration. There are several main target of release planning:
    
@@ -52,7 +41,6 @@ A4: Release planning is to make a plan for delivering the different requirement 
       4. Sort out the backlog of the product
       5. Locate and discuss issues.
 And the output is the release plan, new items which should be put into release backlog, and advice to improve future plan.
-
 
 ———————————————————————————————————————————————————————
 
@@ -64,10 +52,10 @@ Reference：
       4.Regnell, Bjorn, Per Beremark, and Ola Eklundh. "A market-driven requirements engineering process: Results from an industrial process improvement programme." Requirements Engineering 3.2 (1998): 121-129.
       5.Luiz Marcio Cysneiros, Eric Yu, " Requirement engineering for large-scale multi-agent systems", April 2003.
       6.An Ngo-The, Günther Ruhe, " Optimized Resource Allocation for Software Release Planning", IEEE Transactions on Software Engineering 2009 vol.35: 109-123.
+
 ———————————————————————————————————————————————————————
 
 Search Log
-
 
 keyword: 
 
@@ -76,15 +64,11 @@ keyword:
       3. requirements engineering magnitude       
       4. Release planning
 
-
 database: BTH library
-
 
 ———————————————————————————————————————————————————————
 
-
 AR1: Ruhe, Gunther, and Moshood Omolade Saliu. "The art and science of software release planning." IEEE Software 22.6 (2005): 47-53.
-
 
 SUM1: Release planning is used to select and assign the feature in product releases, which need to satisfy the factor of technique, resource, budget, risk and so on, a good release planning need to provide the best business value of development, satisfy the most important stakeholders and should be feasible in recent resource and should show the dependency of different features. So it's very difficult to make a release plan. There are two way to make the release plan, art way or science way.
 Art way means, that the release plan is based on human ability and experience, in Agile, RP pay attention to the next duration, but with the increase of stakeholders and constraints, it will become unsuitable.
@@ -103,9 +87,7 @@ Bad: I think the only bad for this article is the limitation of the new approach
 
 ———————————————————————————————————————————————————————
 
-
 AR2: Svensson, Richard Berntsson, and Bjorn Regnell. "A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements." Requirements Engineering: Foundation for Software Quality (2015).
-
 
 SUM2: In MDSD, almost all the method and approach used to make RP didn't consider about the Quality Requirements. But QUPER model consider about how to deal with the Quality Requirement. QUPER model is used to face the challenge about the fast software development technology, and also increase the importance of QR in the company in order to help company get more market competitiveness.
 There are two main factor that promote the development of QUPER model. First is the direct need identified in industry. Second is that there are no suitable model found in the literature. And also when the company deal with the QR and the RP of QR, they cannot find a suitbale model to judge it. So there is a great need to promote the development of QUPER.
@@ -126,8 +108,7 @@ Good: This article fully describe the reason why we need some new model to let t
 Bad: This article just describe the common steps of QUPER model, but as we know, common steps may be not suitable for every situation. So in the case study, I think the author should discuss the change of QUPER model when we are facing real situation.
 
 ———————————————————————————————————————————————————————
- 
- 
+  
 AR3:Richard Berntsson Svensson, Thomas Olsson, Bjorn Regnell. "Introducing Support for Release Planning of Quality Requirements – An Industrial Evaluation of the QUPER Model.", 2008
 
 SUM3: market-driven product development and release planning is becoming more important and common in recenct software company. But the project management is more difficult since the complex of software project. And a good release plan can directly influence the success of product. And to earn more in market and also to improve the company's competitiveness, the company should pay attention to the Quality requirement of the product. That's the reason that QUPER model is needed.
@@ -159,7 +140,6 @@ Bad: Too less description of QUPER model itself. So I suggest to read this artic
 
 AR4:Regnell, Bjorn, Per Beremark, and Ola Eklundh. "A market-driven requirements engineering process: Results from an industrial process improvement programme." Requirements Engineering 3.2 (1998): 121-129.
 
-
 SUM4: This article mainly describe a specific industrial RE process for packaged software, called REPEAT (Requirements Engineering Process at Telelogic. REPEAT is a requirements enginnering process which can be used to manage the requirement in the release cycle.And REPEAT is focus on how to select the requirement and also the release planning. There are several actors in the REPEAT:
       
       1. Requirement management group: Manage the requirement and make a decision on which requirement should be developed.
@@ -182,5 +162,28 @@ Bad: Only one thing bad I think, this article did not decribe the current status
 
 ———————————————————————————————————————————————————————
 
-Seminars One
+
+
+Seminars Two
 ———————————————————————————————————————————————————————
+
+Q1: Read up on GAP/CVA/IVA Analysis.
+
+A1:
+
+    GAP Analysis: Every development process will have the target or desired performance, but in fact, the actual performance cometimes are not same with the desired one, there should be some gap between them, GAP Analysis means the analysis to find out these gap, to find out how and where can we improve the process. 
+    CVA Analysis:
+    IVA Analysis:
+
+———————————————————————————————————————————————————————
+
+Q2: What tools are available for Continuous Integration?
+
+A2: There are lots of tools are available for Continuous Integration, for example, CruiseControl, LuntBuild, TeamCity, Bamboo, QuickBuild, Hudson and so on. And from the selection of several free tools, I download the QuickBuild for trying. After I trying it, I find out that QuickBuild is little bit different from other tools, first of all, QuickBuild doesn't have the concept of project, QuickBuild use configuration instead, but to be honest, I didn't understand very well about the configuration, but I think it's similar with the root node of tree. The three main processes in the QuickBuild are CheckOut, Build, Publish Artifacts. And since the QuickBuild is based on configuration, so I can set child node to make the tree structure of project. Because I just download the free version of QuickBuild, so I just can set max 16 configuration. And also QuickBuild can simply copy the configuration, it's very convenient to use.
+
+———————————————————————————————————————————————————————
+
+Q3: What is technical product management?
+
+A2: There are lots of tools are available for Continuous Integration, for example, CruiseControl, LuntBuild, TeamCity, Bamboo, QuickBuild, Hudson and so on. And from the selection of several free tools, I download the QuickBuild for trying. After I trying it, I find out that QuickBuild is little bit different from other tools, first of all, QuickBuild doesn't have the concept of project, QuickBuild use configuration instead, but to be honest, I didn't understand very well about the configuration, but I think it's similar with the root node of tree. The three main processes in the QuickBuild are CheckOut, Build, Publish Artifacts. And since the QuickBuild is based on configuration, so I can set child node to make the tree structure of project. Because I just download the free version of QuickBuild, so I just can set max 16 configuration. And also QuickBuild can simply copy the configuration, it's very convenient to use.
+    
