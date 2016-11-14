@@ -171,9 +171,9 @@ Q1: Read up on GAP/CVA/IVA Analysis.
 
 A1:
 
-    GAP Analysis: Every development process will have the target or desired performance, but in fact, the actual performance cometimes are not same with the desired one, there should be some gap between them, GAP Analysis means the analysis to find out these gap, to find out how and where can we improve the process. 
-    CVA Analysis:
-    IVA Analysis:
+      GAP Analysis: Every development process will have the target or desired performance, but in fact, the actual performance cometimes are not same with the desired one, there should be some gap between them, GAP Analysis means the analysis to find out these gap, to find out how and where can we improve the process. 
+      CVA Analysis:
+      IVA Analysis:
 
 ———————————————————————————————————————————————————————
 
@@ -198,5 +198,17 @@ A4: Therefore, it is possible to carry out predictive derivation by "roadmap", a
 AR1: Tony Gorschek, Claes Wohlin，"Requirements Abstraction Model", Requirements Engineering, 2006, Volume 11, Number 1, Page 79
 
 SUM1: In recently development, market-driven incremental product development and release is becoming very common in software industry. Incremental product development means choosing an optimal subset of requirements in a certain release including what is the requirement, when should the requirements released, and how much resource we need for these requirements, how the customer involving into the development to improve the quality. And as the sources of requirements are very different and also requirements sometimes are indirect in the process. It's hard to get the requirement since they have different forms and shapes at what we called different levels of abstraction. So in the market-driven incremental product development, the product manager should be able to solve the problem that how to make the continuous incoming stream requirement ranging from abstract form to the detailed form. To solve the problem, author think RAM is the best solution. 
-RAM
+RAM is model to provide product manager the requirment engineering model to help their work. RAM can support the situation which will deal with lots of continuous incoming stream requirement. Using different types for inputing requirements and divide these abstract requirements into some detail and readable requirements. There are four main advantages of RAM:
+      
+      1. In RAM, every requirements will be compare with the company or project strategy. So every product will not influence the total management target.
+      2. Every requirement will divede into several abstraction level so it is good and easy enough to develop.
+      3. Using RAM, it's easy to compare different requirements. It's important when we face the problem of prioritization of requirements.
+      4. RAM can help every staffs involving the project to understand more about the requirements.
+And when we come to the real situation, we can divide the  process into following action steps:
+      
+      1. Specify: Description the requirements, the reason and benefit of the requirements, risks of the requirments and the title of requirements.
+      2. Place: Since there will be lots of different abstraction level, so we need to consider about how to place the requirements in to different abstraction level.
+      3. Abstraction: Subsequent the requirements into different abstraction level and also breakdown the requirement.
+      4. 
+            
 
