@@ -208,7 +208,10 @@ And when we come to the real situation, we can divide the  process into followin
       
       1. Specify: Description the requirements, the reason and benefit of the requirements, risks of the requirments and the title of requirements.
       2. Place: Since there will be lots of different abstraction level, so we need to consider about how to place the requirements in to different abstraction level.
-      3. Abstraction: Subsequent the requirements into different abstraction level and also breakdown the requirement.
-      4. 
-            
+      3. Abstraction(work-up): Subsequent the requirements into different abstraction level and also breakdown the requirement.
+And also the discuss how to do the validation work in RAM, basiclly divide into static validation and dynamic validation:
+
+      1. Static Validation: Consists of Review and walkthroughs way to validate the product
+      2. Dynamic Validation: Consists of a live industry requirements engineering effort.
+And the conclusion of this article is that RAM is a good approach to help product manager to handle and deal with the requirements on multiple levels of abstraction in a continuous requirements engineering easier, also reduce the risk in requirement engineering, finally improve the quality of products and development and process.
 
