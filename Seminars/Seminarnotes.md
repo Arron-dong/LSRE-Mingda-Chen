@@ -191,4 +191,13 @@ A3: Technical product management is a kind of product management way that requir
 
 Q4: What is roadmapping? How can you do it large scale?
 
-A4: 
+A4: Therefore, it is possible to carry out predictive derivation by "roadmap", and by continual construction and revision, the organization of the enterprise can be operated and the countermeasure can be proactively responded to the predicted trend. The "path map" can effectively deal with the problem of time-varying targets (moving targets), is the biggest difference with the general strategic planning tools. In the initial stage of the project execution process, the roadmap is used to locate the project attributes and input resources. This is achieved by observing the market dynamics, forecasting the technology and generation deductions, and advancing the "roadmap" And the implementation of the project implementation and communication platform for the coordination of resources and scheduling with the basis.
+
+———————————————————————————————————————————————————————
+
+AR1: Tony Gorschek, Claes Wohlin，"Requirements Abstraction Model", Requirements Engineering, 2006, Volume 11, Number 1, Page 79
+
+SUM1: In recently development, market-driven incremental product development and release is becoming very common in software industry. Incremental product development means choosing an optimal subset of requirements in a certain release including what is the requirement, when should the requirements released, and how much resource we need for these requirements, how the customer involving into the development to improve the quality. And as the sources of requirements are very different and also requirements sometimes are indirect in the process. It's hard to get the requirement since they have different forms and shapes at what we called different levels of abstraction. So in the market-driven incremental product development, the product manager should be able to solve the problem that how to make the continuous incoming stream requirement ranging from abstract form to the detailed form. To solve the problem, author think RAM is the best solution. 
+
+RAM
+
