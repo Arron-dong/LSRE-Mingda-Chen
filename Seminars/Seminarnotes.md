@@ -250,4 +250,14 @@ There are five levels of the new framework, we will starting at center and worki
       3. Product: Product level means to analyze whether the product is success, here the success means meet the customers' requirement. We need to focus on the selection of requirements, since a good selection will reduce the risk and improve the effciency. And the degree of impart for different factor in the product.
       4. Company: In company level, we need focus on the influence of product to the company. Success of product doesn't means the success of company. We need to consider about the portfolio management, how to align strategic and also the degree of impact.
       5. Society: Every company activities need to consider about the influence of society, both positive and negative.
-And author also want to show in this`
+And the conclusion of this article is that in high level , we need to consider more aspect. Requirements engineering is a complex work and the product manager is the connection between management and development. Every one involving in the project need to know any change to the process will influence lots of quality level, so we can use these five levels to consider about the problem.
+
+Good: Author come out with some new idea which is really good I think, for example, the last two level, company level and society level. Anything happened in the project process may influence the company's plan and also the society image of company.
+
+Bad: Author want to two things in this articel, first is to present the five levels consideration model and second is to show that product manager need to consider any change in process with different aspect. But I think author should focus on one thing, in my opinion. Second thing could be the reason of the five levels model, and focus on the description of the five levels and how to consider these levels in some practice cases.
+
+———————————————————————————————————————————————————————
+
+AR4:R. Berntsson Svensson, T. Gorschek, B. Regnell, R. Torkar, A. Shahrokni, R. Feldt (2012) “Quality Requirements in Industrial Practice – an extended interview study at eleven companies”, IEEE Transactions on Software Engineering, vol.38(4), pp. 923-935
+
+SUM4:
