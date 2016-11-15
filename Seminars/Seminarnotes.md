@@ -260,4 +260,4 @@ Bad: Author want to two things in this articel, first is to present the five lev
 
 AR4:R. Berntsson Svensson, T. Gorschek, B. Regnell, R. Torkar, A. Shahrokni, R. Feldt (2012) “Quality Requirements in Industrial Practice – an extended interview study at eleven companies”, IEEE Transactions on Software Engineering, vol.38(4), pp. 923-935
 
-SUM4:
+SUM4: Since the increases of different software and also the increases of complex of software, requirements engineering process become more and more important, and the product is based on its functional requirements and quality requirements. A success product means good function with good quality. We cannot just ignore the quality. Quality will also influence the market competitive strength. So the quality of product is very important but in fact, lots of company didn't consider about it. And this article will research on the 22 staffs from 11 different company in Sweden to know how these company deal with the quality. There are two kinds of company, first kind is to develop and sell to other company 
