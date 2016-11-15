@@ -223,4 +223,31 @@ Bad: I don't think anything bad in this article, the only thing I think can be i
 
 AR2: Khurum, Mahvish, Khurum Aslam, and Tony Gorschek. "A Method for Early Requirements Triage and Selection Utilizing Product Strategies." Asia-Pacific Software Engineering Conference (2007).
 
-SUM2: With the development of software development, the market-driven development is gaining more attention recently. And the change will directly influence the traditional requirement engineering. Market-driven development requirement engineering is more related to internal sources including developers, marketing groups and so on. We need to pay more attention to the market information and competitor information, and since MDRE is a continuous acticity, will influence the project during all the release. And MDRE need to continuously deal with lots of requirements. 
+SUM2: With the development of software development, the market-driven development is gaining more attention recently. And the change will directly influence the traditional requirement engineering. Market-driven development requirement engineering is more related to internal sources including developers, marketing groups and so on. We need to pay more attention to the market information and competitor information, and since MDRE is a continuous acticity, will influence the project during all the release. And MDRE need to continuously deal with lots of requirements. We need to discard some unimportant requirement as early as possible, then we can pay more attention to important requirements. So we present a method for Early Requirements Triage and Selection(MERTS), there are two main goals of this MERTS:
+    
+      1. MERTS put both strategic and technical views into consideration, to ensure the decision areas is abstract and also weigh their relative importance.
+      2. MERTS can be used to help manager to triage the requirements and select the right requirements for realization.
+The prerequisite of MERTS is that the requirements which we need to deal with should have similar abstraction level with our product strategy. And there are three part of MERTS:
+
+      1. Early Requirements Triage: First of all, we need specify the requirement especially state the goals we need to meet, the way we meet the goal and the thing we need to do. Then we need to assign weights for different requirements. Finally compare the requirements with weights we assigned.
+      2. Requirements Selection for Release: After we selected a set of requirement, we need to do following things. First, specify the product technology roadmap. This roadmap will show when we need to do what thing with what resource. Second, we need to estimate the resource to ensure the feasibility of requirements.
+      3. Strategy Rationale: Document the reason for each strategy for future plan.
+To explore the effect of MERTS, author use two case study to research on it. And the conclusion of this article is MERTS is good to help product manager to build strategy but there are still some limitation for the MERTS.
+
+Good: Detail, clear, describe the reason of why we come out with MERTS, and also step by step show us how to use the MERTS.
+
+Bad: MERTS have lots of limitation in my opinion, for example, MERTS will do better if we have lots of initial investment and cannot work well if there is lots of continuously resource. And also I think MERTS has been limited in scope like author said, author need to do more research and make some change to improve MERTS.
+
+———————————————————————————————————————————————————————
+
+AR3:Tony Gorschek, Alan M.Davis. "Requirements engineering: In search of the dependent variables", Information and Software Technology, Volume 50, Issues 1-2, January 2008, Pages 67-75.
+
+SUM3: Since when software team modify the requirements engineering process, they will always based on the product quality, but it's not enough and also flawed to just consider about the product quality. So the author present a new framework. These framework will pay attention to something more important than SRS, and will make positive or negative influence to the success of product even company. In most company, they will only consider about the process of requirements engineering and the main output of requirements engineering.
+There are five levels of the new framework, we will starting at center and working out.
+
+      1. Requirements phase: Requirements phase is also the most usual part in recent company to be considered about. In this new framework, we need to pay more attention to the requirement cost and time also the quality of requirement.
+      2. Project: Project related to lots of factor, whether the project is success, whether the project finished on time, whether the project finished under the limitation of budget and so on. So we need to consider about the project budget and time and the project estimates. One more thing is to pay attention the change of requirement degree.
+      3. Product: Product level means to analyze whether the product is success, here the success means meet the customers' requirement. We need to focus on the selection of requirements, since a good selection will reduce the risk and improve the effciency. And the degree of impart for different factor in the product.
+      4. Company: In company level, we need focus on the influence of product to the company. Success of product doesn't means the success of company. We need to consider about the portfolio management, how to align strategic and also the degree of impact.
+      5. Society: Every company activities need to consider about the influence of society, both positive and negative.
+And author also want to show in this`
