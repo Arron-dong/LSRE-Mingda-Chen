@@ -215,3 +215,12 @@ And also the discuss how to do the validation work in RAM, basiclly divide into 
       2. Dynamic Validation: Consists of a live industry requirements engineering effort.
 And the conclusion of this article is that RAM is a good approach to help product manager to handle and deal with the requirements on multiple levels of abstraction in a continuous requirements engineering easier, also reduce the risk in requirement engineering, finally improve the quality of products and development and process.
 
+Good: This article first of all describe the reason why we need RAM, then describe what is the RAM, and then show us how to do the RAM step by step. Using the case to detail show every steps in the real situation. And author consider about all most all the phase we may faced in the development work, and the conclusion is based on the knowledge and practice experience.
+
+Bad: I don't think anything bad in this article, the only thing I think can be improved is the maybe author can pay attention to the practice experience, and put less space on theoretical knowledge, since requirement engineering is an practice problem.
+
+———————————————————————————————————————————————————————
+
+AR2: Khurum, Mahvish, Khurum Aslam, and Tony Gorschek. "A Method for Early Requirements Triage and Selection Utilizing Product Strategies." Asia-Pacific Software Engineering Conference (2007).
+
+SUM2: With the development of software development, the market-driven development is gaining more attention recently. And the change will directly influence the traditional requirement engineering. Market-driven development requirement engineering is more related to internal sources including developers, marketing groups and so on. We need to pay more attention to the market information and competitor information, and since MDRE is a continuous acticity, will influence the project during all the release. And MDRE need to continuously deal with lots of requirements. 
