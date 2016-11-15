@@ -260,4 +260,21 @@ Bad: Author want to two things in this articel, first is to present the five lev
 
 AR4:R. Berntsson Svensson, T. Gorschek, B. Regnell, R. Torkar, A. Shahrokni, R. Feldt (2012) “Quality Requirements in Industrial Practice – an extended interview study at eleven companies”, IEEE Transactions on Software Engineering, vol.38(4), pp. 923-935
 
-SUM4: Since the increases of different software and also the increases of complex of software, requirements engineering process become more and more important, and the product is based on its functional requirements and quality requirements. A success product means good function with good quality. We cannot just ignore the quality. Quality will also influence the market competitive strength. So the quality of product is very important but in fact, lots of company didn't consider about it. And this article will research on the 22 staffs from 11 different company in Sweden to know how these company deal with the quality. There are two kinds of company, first kind is to develop and sell to other company 
+SUM4: Since the increases of different software and also the increases of complex of software, requirements engineering process become more and more important, and the product is based on its functional requirements and quality requirements. A success product means good function with good quality. We cannot just ignore the quality. Quality will also influence the market competitive strength. So the quality of product is very important but in fact, lots of company didn't consider about it. And this article will research on the 22 staffs from 11 different company in Sweden to know how these company deal with the quality. There are two kinds of company, first kind is to develop and sell software to other company. Another kind of company is to develop product for market.
+Then the author describe his research methodology and validty ways, and following are the conclusion:
+
+      1. For B2C, usability is the most important and for B2B, safety is the most important. So the most important quality requirements should be consider about based on company itself.
+      2. There is a close realationship between requirements and cvalue.
+      3. For the cost estimation of QR, the result of research show that there is no direct difference between FR and QR. And the expert opinion is still the main method.
+      4. There are almost 20% QR are dismissed in some phase during the whole project.
+More attention to QR will directly increase the market competitive strength of product. So the author think the company should focus on it.
+
+Good: Simple reaserch, but lead to a very serious result, from the result of research we can see that recently company begin to pay more attention to the QR, but beginning is not enough, and also company didn't go very deep or quality requirement engineering. 
+
+Bad: Research target is little bit small, so the scope is little bit small, so the result of this research will be limited in different situation.
+
+———————————————————————————————————————————————————————
+
+AR5: J. Karlsson, K. Ryan, “A cost-value approach for prioritizing requirements”, IEEE Software, 1997.
+
+SUM5: The final target of developing a software systems is to meet the stakeholder's needs and requirements to see the a competitive edge. But for each software, there will be lots of requirment both functional, nonfunctional from different stakeholder. Theoretically we need to satisfy all the requirement to develop a best software, but in fact, with the limitation of technology,
