@@ -170,10 +170,17 @@ Seminars Two
 Q1: Read up on GAP/CVA/IVA Analysis.
 
 A1:
-
       GAP Analysis: Every development process will have the target or desired performance, but in fact, the actual performance cometimes are not same with the desired one, there should be some gap between them, GAP Analysis means the analysis to find out these gap, to find out how and where can we improve the process. 
-      CVA Analysis:
-      IVA Analysis:
+      
+      CVA Analysis: Customer Value Analysis, an important thing need to be done in successful customer realtionship management, which will based on the analysis of customer history and lifecycle, find out the most valuable current potential customers, or meet the customers' real needs, and improve the retention of customer. The result of this analysis is:
+             
+             1. Define what is the requirement of customers.
+             2. The suppliers which is makeing positive or negative effect on the requirements
+             3. Your competitive strength.
+             4. The improvement you can do to satisfy the customers.
+             5. The right way of communication with your customers.
+             
+      IVA Analysis: Internal Value Analysis, this is a process of identifying and evaluating an organization's specific characteristics for example, Resources(Financial resource, Human resource and etc), capabilities and core competencies and so on. And the IVA's goal is to find out the company's current vision, mission and strategies.
 
 ———————————————————————————————————————————————————————
 
