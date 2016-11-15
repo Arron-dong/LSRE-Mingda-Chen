@@ -277,4 +277,23 @@ Bad: Research target is little bit small, so the scope is little bit small, so t
 
 AR5: J. Karlsson, K. Ryan, “A cost-value approach for prioritizing requirements”, IEEE Software, 1997.
 
-SUM5: The final target of developing a software systems is to meet the stakeholder's needs and requirements to see the a competitive edge. But for each software, there will be lots of requirment both functional, nonfunctional from different stakeholder. Theoretically we need to satisfy all the requirement to develop a best software, but in fact, with the limitation of technology,
+SUM5: The final target of developing a software systems is to meet the stakeholder's needs and requirements to see the a competitive edge. But for each software, there will be lots of requirment both functional, nonfunctional from different stakeholder. Theoretically we need to satisfy all the requirement to develop a best software, but in fact, with the limitation of technology, time and resource, we cannot meet every requirement. So the product manager need to choose a subset of customer's requirements, but it's a hard job. So the author present a cost-value approach for prioritizing requirements and applied it to two commercial projects.
+Author think a process for prioritizing requirements must be simple and fast and also accurate and reliable, and there be several steps of author's new approach:
+
+      1. Requirements engineers need to review the completeness of all the requirement to ensure they are described well and readable.
+      2. Users and Customer assess the value of requirements by applying AHP's pairwise comparison method.
+      3. Let the experienced requirements engineers to esimate the cost of each requirements.
+      4. Calculate the relative value and implementation cost, put them into a cost-value diagram.
+      5. Stakeholder use this diagram to analyze the every requirements and decided the prioritization of the requirement, also can build the release plannig based on these diagrams.
+Author also use two case to show the effect of this new approach, one case is about the RAN project, another is about the PMR project. and the conclusion of this article is:
+
+      1. This new approach can fill the need of the trade-off analysis.
+      2. This new approach can provide the mathematical basis for the software requirment engineering.
+      3. This new approach can put less attention to the dependency of requirement to reduce the cost.
+      4. This new approach can reduce the difficult of communication between customers, users and project managers.
+      5. This new approach is efficiency to determined the requirements priorities.
+      
+Good: Prioritization work is very difficult since the manager need to consider lots of things for example the importance of different customer, the cost, the time and so on. But this approach combine the relative value and implementation cost to provide a important information for the requirements prioritization work, I think it's very useful. And the two case also prove this opinion. 
+
+Bad: This new approach didn't consider about the dependency of requirement. The dependency between requirement is also a very important factor in prioritization work. So I think authoer may need to change something in this new approach to consider about this factor. In my opinion, if we put dependency into consideration when we are doing requirement engineering, there is no doubt we can make a better release plan and reduce cost and time in real developemnt of software.
+      
