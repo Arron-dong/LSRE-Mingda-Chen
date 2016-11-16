@@ -170,7 +170,7 @@ Seminars Two
 Q1: Read up on GAP/CVA/IVA Analysis.
 
 A1:
-      GAP Analysis: Every development process will have the target or desired performance, but in fact, the actual performance cometimes are not same with the desired one, there should be some gap between them, GAP Analysis means the analysis to find out these gap, to find out how and where can we improve the process. 
+      GAP Analysis: Every product will have GAP to customers' requirements. GAP analysis will help us improve the produce(need more 
       
       CVA Analysis: Customer Value Analysis, an important thing need to be done in successful customer realtionship management, which will based on the analysis of customer history and lifecycle, find out the most valuable current potential customers, or meet the customers' real needs, and improve the retention of customer. The result of this analysis is:
              
@@ -182,6 +182,7 @@ A1:
              
       IVA Analysis: Internal Value Analysis, this is a process of identifying and evaluating an organization's specific characteristics for example, Resources(Financial resource, Human resource and etc), capabilities and core competencies and so on. And the IVA's goal is to find out the company's current vision, mission and strategies.
 
+And IVA will find out what do we have, CVA will find out what customers' wants, and gap analysis will find out the difference between them.
 ———————————————————————————————————————————————————————
 
 Q2: What tools are available for Continuous Integration?
@@ -207,7 +208,7 @@ AR1: Tony Gorschek, Claes Wohlin，"Requirements Abstraction Model", Requirement
 SUM1: In recently development, market-driven incremental product development and release is becoming very common in software industry. Incremental product development means choosing an optimal subset of requirements in a certain release including what is the requirement, when should the requirements released, and how much resource we need for these requirements, how the customer involving into the development to improve the quality. And as the sources of requirements are very different and also requirements sometimes are indirect in the process. It's hard to get the requirement since they have different forms and shapes at what we called different levels of abstraction. So in the market-driven incremental product development, the product manager should be able to solve the problem that how to make the continuous incoming stream requirement ranging from abstract form to the detailed form. To solve the problem, author think RAM is the best solution. 
 RAM is model to provide product manager the requirment engineering model to help their work. RAM can support the situation which will deal with lots of continuous incoming stream requirement. Using different types for inputing requirements and divide these abstract requirements into some detail and readable requirements. There are four main advantages of RAM:
       
-      1. In RAM, every requirements will be compare with the company or project strategy. So every product will not influence the total management target.
+      1. In RAM, every requirements will be compare with the company or project strategy. So every product will not influence the total management target. There will be early selection for requirements.
       2. Every requirement will divede into several abstraction level so it is good and easy enough to develop.
       3. Using RAM, it's easy to compare different requirements. It's important when we face the problem of prioritization of requirements.
       4. RAM can help every staffs involving the project to understand more about the requirements.
