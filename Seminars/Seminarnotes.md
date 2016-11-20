@@ -1,71 +1,73 @@
+Change history in this commitment:
+
+It's my first time to use Github, so I just find out how to show the feedback from you, and this commitment is the improvement based on all the past feedback. And I am sorry I use the commit button as "save" button before, so everytime I come out with something or find something useful, I will write here or copy here as recording. But from now, I will update change history in this commitment here to show anything I done in this commitment and write the seminarnotes in local text and upload them when I finished it. I am sorry for disturbing you before. 
+
+
 Seminars One
 ———————————————————————————————————————————————————————
 
 Q1: What is large scale requirements engineering?
 
-A1: Large scale requirement engineering means using proven techniques to perform the analysis of large number of requirements and identify customers needs, help the analysts understand the problems, define all the external features of the target which is the large and complex system. LSRE describes the system to be developed and its behavior characterisitics and related constraints through appropriate tools and notation. LSRE will forms the requirement document, and supports the evolving needs of the users. LSRE is an iterative process of defining requirements, documenting records, evolving requirements and finally decide the requirements on the basis of validation.
+A1: With the growth of complexity and size of software intense systems, the sets of requirements increasingly become large and complex. The increased role of software come with the increased number of requirements. Lots of new idea will come out in MDRE based on the change of situation, the flow of new requirements will directly bring more requirements from different perspective of customers than the project team can deal with during each project cycle. So the size of requirements databases may exceed 10 thounsands of requirements. And this situation is called large scale requirements engineering. The process of LSRE is similar with RE, which is to elicit, specify, prioritize and manage the requirements. Final goal of LSRE is to deal with the requirements and produce better product.
 
+ 
+ 
+Reference:
+      
+      1. Luiz Marcio Cysneiros, Eric Yu, " Requirement engineering for large-scale multi-agent systems", April 2003.
+      2. Wnuk, Krzysztof,"Exploring factors affecting decision outcome and lead time in large-scale requirements engineering", Journal of software: evolution and process, volume 27, Issue 9, page:647-673
+      3. Wnuk, Krzysztof,"Understanding and Supporting Large-Scale requirements management",2010.
 ———————————————————————————————————————————————————————
 
 Q2: What are the challenges in large scale requirements engineering?
 
 A2: 
     
-    1. The complex system bring large number of requirements to deal with. 
-    2. Lack of domain knowledge and the problems of the area always be inaccurate.
-    3. The pressure of time.
-    4. The customers can't provide the things you want to know.
-    5. New releases through the projects will come out with lots of problem.
-    6. Too much requirements stored in the requiremens database.
-    7. Distributed development will lead to lots of problem.
-    8. Uncertainty and frequently change.
-    9. Conflicts between multiple knowledge sources
-    10. Multiple stakeholders to consider about
+      1. The complex system bring large number of requirements to deal with. 
+      2. Lack of domain knowledge and the problems of the area always be inaccurate.
+      3. The pressure of time.
+      4. The customers can't provide the things you want to know.
+      5. New releases through the projects will come out with lots of problem.
+      6. Too much requirements stored in the requiremens database.
+      7. Distributed development will lead to lots of problem.
+      8. Uncertainty and frequently change.
+      9. Conflicts between multiple knowledge sources
+      10. Multiple stakeholders to consider about
+  
+Reference:
 
+      1. Wnuk, Krzysztof,"Exploring factors affecting decision outcome and lead time in large-scale requirements engineering", Journal of software: evolution and process, volume 27, Issue 9, page:647-673
+      2. Wnuk, Krzysztof,"Understanding and Supporting Large-Scale requirements management",2010.
 ———————————————————————————————————————————————————————
 
 Q3: What is the order of magnitude of the number of requirements we are
 discussing?
 
-A3：Thousands or more, the system will be developed should be large and complex.
+A3：Thousands or more.
 
+Reference:
+
+      1. Wnuk, Krzysztof,"Exploring factors affecting decision outcome and lead time in large-scale requirements engineering", Journal of software: evolution and process, volume 27, Issue 9, page:647-673
+      2. Wnuk, Krzysztof,"Understanding and Supporting Large-Scale requirements management",2010.
 ———————————————————————————————————————————————————————
 
 Q4: Read up on and summarise [Strategic] Release Planning
 
-A4: Release planning is to make a plan for delivering the different requirement of the whole system which will be developed. All the stakeholders need to participated in the release planning to ensure the quality of plan in different aspect. And then the release planning will be used to make iteration plan for each individual iteration. There are several main target of release planning:
+A4: Release planning is a planning process that during the agile software project, which is a high level decision making process to make a release plan, release plan is an evolving log that describes which function or feature will be delivered in next release or future release. Also release planning will plan and estimate the resource delivered for each feature.
+There are several main advantages of release planning:
    
-      1. Make the target of this release.
-      2. Define the business background and competitive environment.
-      3. Define the current status of product.
-      4. Sort out the backlog of the product
-      5. Locate and discuss issues.
-And the output is the release plan, new items which should be put into release backlog, and advice to improve future plan.
+      1. Gives the project team a common understanding about the feature they need to develop.
+      2. Gives the project team a common understanding about the resource they can use.
+      3. Prioritize the feature.
+      4. Reduce the conflicts and lead the team to a common target.
+      5. Locate and discuss problem they meeted.
 
-———————————————————————————————————————————————————————
-
-Reference：
-
-      1.Ruhe, Gunther, and Moshood Omolade Saliu. "The art and science of software release planning." IEEE Software 22.6 (2005): 47-53.
-      2.Svensson, Richard Berntsson, and Bjorn Regnell. "A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements." Requirements Engineering: Foundation for Software Quality (2015).
-      3.Richard Berntsson Svensson, Thomas Olsson, Bjorn Regnell. "Introducing Support for Release Planning of Quality Requirements – An Industrial Evaluation of the QUPER Model.", 2008
-      4.Regnell, Bjorn, Per Beremark, and Ola Eklundh. "A market-driven requirements engineering process: Results from an industrial process improvement programme." Requirements Engineering 3.2 (1998): 121-129.
-      5.Luiz Marcio Cysneiros, Eric Yu, " Requirement engineering for large-scale multi-agent systems", April 2003.
-      6.An Ngo-The, Günther Ruhe, " Optimized Resource Allocation for Software Release Planning", IEEE Transactions on Software Engineering 2009 vol.35: 109-123.
-
-———————————————————————————————————————————————————————
-
-Search Log
-
-keyword: 
-
-      1. large scale requirements engineering
-      2. requirements engineering
-      3. requirements engineering magnitude       
-      4. Release planning
-
-database: BTH library
-
+Reference:
+      
+      1.Ruhe, Gunther, and Moshood Omolade Saliu. "The art and science of software release planning." IEEE Software 22.6 (2005): 47-53.
+      2.An Ngo-The, Günther Ruhe, " Optimized Resource Allocation for Software Release Planning", IEEE Transactions on Software Engineering 2009 vol.35: 109-123.
+      3.Svahnberg, Mikael, et al. "A systematic review on strategic release planning models." Information & Software Technology 52.3 (2010): 237-248.
+      
 ———————————————————————————————————————————————————————
 
 AR1: Ruhe, Gunther, and Moshood Omolade Saliu. "The art and science of software release planning." IEEE Software 22.6 (2005): 47-53.
@@ -81,9 +83,9 @@ Author come out with a new way that combine two ways, using science way to creat
 And the science way is a tool to create solution, but the final decision will be made by the project manager.
 But the practical effect of this approach still need some experiment to prove.
 
-Good: This article first of all describe the current status of software development, and describe the importance of release planning, to come out with the new approach, the author describe the pros and cons of both Art way and Science way. And also author give a very detail description of his new approach.
+Good: This new approach combine the science way and art way, it can be used to make the release planning comprehensively. Science way can make a set of solution, and art way can used to pick the final solution based on human experience.
 
-Bad: I think the only bad for this article is the limitation of the new approach is missed, the author didn't discuss the limitaion of this new approach and also he ignore the influence of the number of release.
+Bad: I think the only bad for this article is the limitation of the new approach is missed, the author didn't discuss the limitaion of this new approach so that I think the bad of this new approach is its limitation. And also he ignore the influence of the number of release. In opinion, the number of release will influence this approach a lot, large number of release cost lots of time, then there will be lots of uncertain factor, so the science way will be less available.
 
 ———————————————————————————————————————————————————————
 
@@ -103,9 +105,9 @@ There are several steps of QUPER model.
 And throught a case study of large company operating in a market-driven RE context using a product line approach.
 And the conclution from the case study is that QUPER model is feasible and scalability in the company to improve the measurement of QR and also improve the company's market competitiveness.
 
-Good: This article fully describe the reason why we need some new model to let the reader notice the importance of QUPER model, and detail describe the steps and principles of QUPER model, also the case study show the effect of QUPER model.
+Good: QUPER model fill the gaps in the quality requirements management approach. QUPER can systemly analyze the QR and also consider about the market level factor, which is very good to improve the quality of product and competitive strength of company. And in some steps, its similar with the functional requirment management, so it can be easy to learn.
 
-Bad: This article just describe the common steps of QUPER model, but as we know, common steps may be not suitable for every situation. So in the case study, I think the author should discuss the change of QUPER model when we are facing real situation.
+Bad: This article just describe the common steps of QUPER model, but as we know, common steps may be not suitable for every situation. So in the case study, I think the author should discuss the change of QUPER model when we are facing real situation. And for me I think the QUPER model in this article cost too much time to analyze the QR if its in the real case, and the time factor will influence the situation of market. So I think QUPER model is little bit complex, for example, in my opinion step3, step4, step5 can be done together as a cost-value analysis.
 
 ———————————————————————————————————————————————————————
   
@@ -132,15 +134,15 @@ And follow these steps and after the research on the Sony Ericsson case. Authors
       2. The QUPER model is useful and related when the company make high level decision of quality requirements in the release planning.
       3. The main challenge of the QUPER model is that it's difficult to identify and specify the values for the differentiation and saturation breakpoints.
 
-Good: Same as the last article, this article discuss the reason of why we need QUPER model at first, and this article is mainly focus on the real case, we can see the author make some change to let QUPER model can be very suitable for different situation. That is what I think best.
+Good: Same as the last article, but this article show us the real case of QUPER model, we can see the author make some change to let QUPER model can be very suitable for different situation just like what I expected in last article. That is what I think best. This article is better than the last article since this article show us the practice effiency of QUPER. And the good for the real case QUPER model is similar with the solution, easy to use and learn, not complex, useful and so on.
 
-Bad: Too less description of QUPER model itself. So I suggest to read this article and the last article together to make full understanding of QUPER model.
+Bad: No bad thing for the QUPER model in the Sony Ericsson case, it's effictive and not complex.
 
 ———————————————————————————————————————————————————————
 
 AR4:Regnell, Bjorn, Per Beremark, and Ola Eklundh. "A market-driven requirements engineering process: Results from an industrial process improvement programme." Requirements Engineering 3.2 (1998): 121-129.
 
-SUM4: This article mainly describe a specific industrial RE process for packaged software, called REPEAT (Requirements Engineering Process at Telelogic. REPEAT is a requirements enginnering process which can be used to manage the requirement in the release cycle.And REPEAT is focus on how to select the requirement and also the release planning. There are several actors in the REPEAT:
+SUM4: This article mainly describe a specific industrial RE process for packaged software, called REPEAT (Requirements Engineering Process at Telelogic). REPEAT is a requirements enginnering process which can be used to manage the requirement in the release cycle.And REPEAT is focus on how to select the requirement and also the release planning. There are several actors in the REPEAT:
       
       1. Requirement management group: Manage the requirement and make a decision on which requirement should be developed.
       2. Issuer: A stakeholder which can submit a requirement to the Requirement management group.
@@ -156,9 +158,9 @@ And there are five different phases of the REPEAT process:
       4. Conclution: make the conclution about requirement management in the current phase.
 The conclution of this article is that REPEAT is a good way to manage the requirement, the REPEAT will inprovement the quality of product, the release precision, the effort estimation and specification of requirments. 
 
-Good: This article detail describe the REPEAT process, from the actors to the phases and also use some process enactment scenarios to show how to deal with the problem in real project. And the conclution of this article is based on both theoretical knowledge and practical results.
+Good: As a methods in 1998, REPEAT process consider lots of perspective during the requirements engineering, and this REPEAT process almost decide the normal process(such as elicitation, specification, prioritization)。
 
-Bad: Only one thing bad I think, this article did not decribe the current status at first, in other words, the reason why REPEAT is important is not adequate.
+Bad: As a methods in 1998, I think REPEAT process is good enough for the RE in that time, but with the development of software, this method will come out with lots of problem, so the limitation of REPEAT process is not very clear. Also for each phases, I think the description for each process is not complete enough so maybe there will be some problem when we are dealing with real case.
 
 ———————————————————————————————————————————————————————
 
@@ -170,7 +172,7 @@ Seminars Two
 Q1: Read up on GAP/CVA/IVA Analysis.
 
 A1:
-      GAP Analysis: Every product will have GAP to customers' requirements. GAP analysis will help us improve the produce(need more 
+      GAP Analysis: GAP analysis is to identify and manage both the positive and negative gaps between the current product and customer expected one. Gap will appear in the detail function, feature and the related quality requirements. And positive gap means that the product we developed is more than the customter expected one and the negative gap means that the product we developed is not enough to satisfy the customer. GAP analysis can help the project team to think about how to improve the current product during the development based on the customers' requirements.
       
       CVA Analysis: Customer Value Analysis, an important thing need to be done in successful customer realtionship management, which will based on the analysis of customer history and lifecycle, find out the most valuable current potential customers, or meet the customers' real needs, and improve the retention of customer. The result of this analysis is:
              
@@ -183,6 +185,11 @@ A1:
       IVA Analysis: Internal Value Analysis, this is a process of identifying and evaluating an organization's specific characteristics for example, Resources(Financial resource, Human resource and etc), capabilities and core competencies and so on. And the IVA's goal is to find out the company's current vision, mission and strategies.
 
 And IVA will find out what do we have, CVA will find out what customers' wants, and gap analysis will find out the difference between them.
+
+Reference:
+
+      1.Tony Gorschek, Alan M.Davis. "Requirements engineering: In search of the dependent variables", Information and Software Technology, Volume 50, Issues 1-2, January 2008, Pages 67-75.
+      
 ———————————————————————————————————————————————————————
 
 Q2: What tools are available for Continuous Integration?
@@ -194,13 +201,26 @@ A2: There are lots of tools are available for Continuous Integration, for exampl
 Q3: What is technical product management?
 
 A3: Technical product management is a kind of product management way that requires the managers have technical background. Regular product manager can be familar with the management of project and also have some experience, but without the technical background. There will be some problems when working together with the developer. And the technical product manager do not need to design or develop the software since they are actually the product management role working together with the software development team. Technical product management is an approach that let the product manager have more knowledge about the real development work. So the manager can manage the process more reasonable and efficient, and improve the plan with his knowledge, technical skills and experience. And Technical product management should focus on the business side of role. As we said before, techincal product manager have technical skills, so the communication between manager roles and development rolos will be easier.
-    
+
+Reference:
+ 
+      1. Tony Gorschek,"Requirements Engineering Supporting Technical Product Management", 2006
 ———————————————————————————————————————————————————————
 
 Q4: What is roadmapping? How can you do it large scale?
 
-A4: Therefore, it is possible to carry out predictive derivation by "roadmap", and by continual construction and revision, the organization of the enterprise can be operated and the countermeasure can be proactively responded to the predicted trend. The "path map" can effectively deal with the problem of time-varying targets (moving targets), is the biggest difference with the general strategic planning tools. In the initial stage of the project execution process, the roadmap is used to locate the project attributes and input resources. This is achieved by observing the market dynamics, forecasting the technology and generation deductions, and advancing the "roadmap" And the implementation of the project implementation and communication platform for the coordination of resources and scheduling with the basis.
+A4: Roadmapping is a way to create the product strategies for the long-term development which also means to plan for a product. Roadmapping combine early information, current knowledge and customer priorities and also the long-term goal to make a plan in order to deliver the right products to the right markets at the right time. Roadmapping is not only just aim for current product, but also to satisfy the company long-term business goals. There are four advantages of roadmapping:
 
+      1. It provide a low cost and low risk methods for company to gain the feedback from customer and market.
+      2. It provide a framework about the future plan of product.
+      3. It provide a framework about how much resource we need to deliver the feature or function in the roadmap
+      4. It provide a relatively stable method to deal with the uncertain factor during the development.
+In large scale, there will be lots of uncertain things, it means we need to continuous modify the roadmap, that requires the product manager to make a particularly detailed roadmap, and every change in the roadmap need the data support(market situation, customer value and so on).
+
+Reference:
+
+      1. Tony Gorschek,"Requirements Engineering Supporting Technical Product Management", 2006
+      2. Suomalainen, Tanja, et al. "Software product roadmapping in a volatile business environment." Journal of Systems and Software 84.6 (2011): 958-975.
 ———————————————————————————————————————————————————————
 
 AR1: Tony Gorschek, Claes Wohlin，"Requirements Abstraction Model", Requirements Engineering, 2006, Volume 11, Number 1, Page 79
@@ -223,9 +243,9 @@ And also the discuss how to do the validation work in RAM, basiclly divide into 
       2. Dynamic Validation: Consists of a live industry requirements engineering effort.
 And the conclusion of this article is that RAM is a good approach to help product manager to handle and deal with the requirements on multiple levels of abstraction in a continuous requirements engineering easier, also reduce the risk in requirement engineering, finally improve the quality of products and development and process.
 
-Good: This article first of all describe the reason why we need RAM, then describe what is the RAM, and then show us how to do the RAM step by step. Using the case to detail show every steps in the real situation. And author consider about all most all the phase we may faced in the development work, and the conclusion is based on the knowledge and practice experience.
+Good: Requirements Abstraction Model compare every requirements with the requirements of other abstraction level in order to find out whether the incoming requirements are related to the current product and the strategy of prodcut. In other words, it can be seen as a early selection for incoming requirements.
 
-Bad: I don't think anything bad in this article, the only thing I think can be improved is the maybe author can pay attention to the practice experience, and put less space on theoretical knowledge, since requirement engineering is an practice problem.
+Bad: Requirements Abstraction Model, in my opinion, is too complex and cost too much time in practice, especially in large scale requirements engineering. And abstraction levels of different requirements are little bit hard to identify in practice. It's better if we can use other method to do the first selection for the incoming requirements to reduce the number of requirements, then use RAM.
 
 ———————————————————————————————————————————————————————
 
@@ -242,9 +262,9 @@ The prerequisite of MERTS is that the requirements which we need to deal with sh
       3. Strategy Rationale: Document the reason for each strategy for future plan.
 To explore the effect of MERTS, author use two case study to research on it. And the conclusion of this article is MERTS is good to help product manager to build strategy but there are still some limitation for the MERTS.
 
-Good: Detail, clear, describe the reason of why we come out with MERTS, and also step by step show us how to use the MERTS.
+Good: The authors did not use one-size-fit-all philosophy when they are creating the MERTS, so it's possible for any company to use MERTS based on their own situation and degree needed.
 
-Bad: MERTS have lots of limitation in my opinion, for example, MERTS will do better if we have lots of initial investment and cannot work well if there is lots of continuously resource. And also I think MERTS has been limited in scope like author said, author need to do more research and make some change to improve MERTS.
+Bad: The bad for MERTS in my opinion is its effect, would MERTS provide good effect in practice? and how to balance the benefits of MERTS and the costs of MERTS? In these two question, I expect more research.
 
 ———————————————————————————————————————————————————————
 
@@ -260,9 +280,9 @@ There are five levels of the new framework, we will starting at center and worki
       5. Society: Every company activities need to consider about the influence of society, both positive and negative.
 And the conclusion of this article is that in high level , we need to consider more aspect. Requirements engineering is a complex work and the product manager is the connection between management and development. Every one involving in the project need to know any change to the process will influence lots of quality level, so we can use these five levels to consider about the problem.
 
-Good: Author come out with some new idea which is really good I think, for example, the last two level, company level and society level. Anything happened in the project process may influence the company's plan and also the society image of company.
+Good: Author come out with some new idea which is really good I think, It show us that every incoming requirements need to be judged based on its relationship between other levels. And also the conclusion of this article is really good. Just like the goal of roadmapping that the value of every requirements need to be considered about based on the strategy。 
 
-Bad: Author want to two things in this articel, first is to present the five levels consideration model and second is to show that product manager need to consider any change in process with different aspect. But I think author should focus on one thing, in my opinion. Second thing could be the reason of the five levels model, and focus on the description of the five levels and how to consider these levels in some practice cases.
+Bad: Nothing bad in this article,
 
 ———————————————————————————————————————————————————————
 
@@ -279,7 +299,7 @@ More attention to QR will directly increase the market competitive strength of p
 
 Good: Simple reaserch, but lead to a very serious result, from the result of research we can see that recently company begin to pay more attention to the QR, but beginning is not enough, and also company didn't go very deep or quality requirement engineering. 
 
-Bad: Research target is little bit small, so the scope is little bit small, so the result of this research will be limited in different situation.
+Bad: Research target is little bit small, so the scope is little bit small, so the result of this research will be limited in different situation. For example, there are several company are similar with their domain, it's better if user choose some company with the different domain, then the result of research will be more convincing.
 
 ———————————————————————————————————————————————————————
 
