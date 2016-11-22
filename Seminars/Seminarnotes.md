@@ -1,6 +1,8 @@
 Change history in this commitment:
 
-It's my first time to use Github, so I just find out how to show the feedback from you, and this commitment is the improvement based on all the past feedback. And I am sorry I use the commit button as "save" button before, so everytime I come out with something or find something useful, I will write here or copy here as recording. But from now, I will update change history in this commitment here to show anything I done in this commitment and write the seminarnotes in local text and upload them when I finished it. I am sorry for disturbing you before. 
+Nov 20, 2016：It's my first time to use Github, so I just find out how to show the feedback from you, and this commitment is the improvement based on all the past feedback. And I am sorry I use the commit button as "save" button before, so everytime I come out with something or find something useful, I will write here or copy here as recording. But from now, I will update change history in this commitment here to show anything I done in this commitment and write the seminarnotes in local text and upload them when I finished it. I am sorry for disturbing you before. 
+
+Nov 22, 2016: Updated the result of homework of Seminars three.
 
 
 Seminars One
@@ -325,3 +327,136 @@ Good: Prioritization work is very difficult since the manager need to consider l
 
 Bad: This new approach didn't consider about the dependency of requirement. The dependency between requirement is also a very important factor in prioritization work. So I think authoer may need to change something in this new approach to consider about this factor. In my opinion, if we put dependency into consideration when we are doing requirement engineering, there is no doubt we can make a better release plan and reduce cost and time in real developemnt of software.
       
+———————————————————————————————————————————————————————
+
+
+Seminars Three
+———————————————————————————————————————————————————————
+
+Q1: Read up on the Boston Matrix
+
+A1: Boston Matrix is a methodology to plan the product portfolio. Boston Matrix based on two factor that could decide the product, the market gravity and enterprise. The main goal of this methodology is to solve the problem of how to make the product variety and structure of the enterprise meet the changes of market demand, only to follow the market situation, the production can be meaningful. Also Boston Matrix provide a good help for company to effectively allocate the resource to the development of product, which is also the key for company to gain more competitive strength. There are four combination of business unit: Question Marks, Stars, Cash Cows, Dogs. Question Marks are growing rapidly but low market shares. Stars means the high grow rate and strong relative market share. Cash Cows means the return on assets will larger than the market growth rate. Dogs means the business with low market share and low growth rate.
+
+Reference:
+
+I didn't find some article good for describe the Boston Matrix, so my answer is based on following websites:
+http://www.netmba.com/strategy/matrix/bcg/
+https://en.wikipedia.org/wiki/Growth%E2%80%93share_matrix
+
+———————————————————————————————————————————————————————
+
+Q2: How do you connect your requirements to your architecture?
+
+A2: In product management, first of all. we need to do the portfolio management to make a decision for the product lifecycle and product line. And the product lifecycle and product line will be the reference when the product manager doing product roadmapping. And every incoming requirements need to be judged based on the dependency with the product roadmap. In other words, a critical requirement need to related to requirements in other level(process, product, company, society). And the requirements come from situation of market, the customer and company itself, which are all the important role in my architecture. And after the requirements engineering work. the requirements list will be the reference to set the release plan, which is also a kind of connection to architecture. In my opinion, requirements are the basic element of my architecture, and all the work for requirements (elicitation, specification, prioritization, selection, deliver and so on)are going to make my architecture better.
+
+Reference:
+
+1. De Weerd, I. Van, et al. "Towards a Reference Framework for Software Product Management." Requirements Engineering (2006): 319-322.
+2. Tony Gorschek, Alan M.Davis. "Requirements engineering: In search of the dependent variables", Information and Software Technology, Volume 50, Issues 1-2, January 2008, Pages 67-75.
+
+———————————————————————————————————————————————————————
+
+Q3: Can you connect all requirements directly? What do you do if you cannot?
+
+A3: Of course I cannot connect all requirements directly. There are two main reason. First is that there are too many requirements especially in large scale requirement engineering, it's impossible to connect all of them into architecture since the limitation of time and resource. Second is that not every requirements is valuable enough for put into architecture to consider about. I will firstly do the early selection work on these requirements, methods can be lots of, but the goal is to find out the valuable requirements(valuable for roadmap, for company strategy, for market situation). Secondly evaluating the requirements based on its cost and its value. Finally organize the requirements based on module, dependency, requirements level. 
+
+Reference:
+
+1. De Weerd, I. Van, et al. "Towards a Reference Framework for Software Product Management." Requirements Engineering (2006): 319-322.
+
+———————————————————————————————————————————————————————
+
+AR1: De Weerd, I. Van, et al. "Towards a Reference Framework for Software Product Management." Requirements Engineering (2006): 319-322.
+
+SUM1: Recently, the software product management become more and more important with the development of software technology. And the work for product management become more and more complex. To solve this problem, author come out with a reference framework for software product management. Following are the key processes of this framework.
+      
+      1. Portfolio management: This process set the existing products, look for new products based on market and company strategy, and decide the product lifecycle.
+      2. Product roadmapping: This process plan and portray the use of every resources and the relationship between the "road" in a long-term time.
+      3. Requirements management: This process is used to elicit the requirements, specify the requirements and organize the incoming requirements.
+      4. Release planning: This process is to prioritize the requirements and select the requirements for next release.
+
+Good: This reference framework is very good for me now. After read lots of article about the product management, I was little bit confused about the relationship between different process. And this framework especially the Figure 1 inside this article, directly show me the relationship and also give a better understanding about the process of product management.
+
+Bad: Only one thing bad, in the Figure 1, I think need to add a another factor called Competitor company, maybe author think it is contained in the market. 
+
+———————————————————————————————————————————————————————
+
+AR2: Björn Regnell, Sjaak Brinkkemper, "Market-Driven Requirements Engineering for Software Products", "Engineering and Managing Software Requirements", pp 287-308.
+
+SUM2: With the increasing of software development needs in open market, the market-driven development have became the challenge of RE process, so in this article, author describe the special element that will influence the process and also introduce the requirements state models.
+MDRE have some typical characteristics, the development team will make all the decision and take all the risks, there will be lots of incoming requirements, so the number of requirements are large. And there will be multiple release planning focusing on time-to-market and return-on-investment.
+Then author focus on the process quality, and divide the requirements into Alfa requirement and beta requirements. Alfa requirement means the requirement have very high inherent quality and should be selected. Beta requirements are those that should be rejected cause its low quality. So in MDRE, we need to find out the Alfa requirements and give up the Beta requirements. Also, we should not judge the value and cost of a requirements just based on itself, we need to think about the its relationship to other requirements.
+And this article also propose a process quality model used for requirements selection, a typical requirements state model used in progress tracking, a typical requirements repository used for data management.
+
+Good: This article is a introduction for the MDRE, there is no good or bad on MDRE, so we need to focus on whether the author introduce the MDRE in different aspect comprehensively. And after read the article, I think author describe the MDRE very well. Description of MDRE is detailed.  Key elements of MDRE are presented. Challenge and problem also been described. 
+
+Bad: The only thing I think no good is when author talk about the process quality, he divide the requirements into Alfa and Beta, I think this one-size-fits-all methods is not good. I know the author just want to propose a idea about to find out valuable requirement . But the evaluation of value of requirements is very complex. I think it's better if we can add more division into it or using other way to judge it. For example, as I read before, we can think about it in different abstraction level. Based on the relationship with high level requirements.
+
+———————————————————————————————————————————————————————
+
+AR3: http://www.scaledagileframework.com/about/
+http://www.cio.com/article/2936942/enterprise-software/introducing-the-scaled-agile-framework.html
+
+SUM3: Scaled agile framework is a framework for developing as an agile team at enterprise scale. It provide a unified view for the product manager, to let them have a better understanding for the trends and analysis. And this framework allow large company to move towards a agile way. A scaled agile framework team might be 8 to 10 people responsible for everything including deliver software, requirements engineering, coding, testing and deployment. And scaled agile framework suggest that in program portfolio management, there should be one office which is responsible for the strategy, program management and investment funding. Following are the benefits of scaled agile framework and these benefits have been proved by lots of company.
+      
+      1. Increase the productivity of project team.
+      2. Increase the quality of the project(process and product).
+      3. Reduce the time.
+      4. Increase the engagement and satisfaction of team members.
+
+Good: Lots of good thing for Scaled agile framework:
+      
+      1. Free to use.
+      2. The effort have been proved by lots of real project.
+      3. Lots of benefits(mentioned in summary).
+      4. Still continuously evolving based on world situation
+ 
+Bad: Nothing bad for scaled agile framework, but there are less description about what is scaled agile, in my opinion, scaled agile means that there are several agile teams need to work together. And to be honest, there is still some different opinion for what is the better or best method for scaled agile. As I know, for example, Scrum of Scrums(SoS), Large Scale Scrum(LeSS) and other the Scaled Agile Framwork(SAFe).
+
+———————————————————————————————————————————————————————
+
+AR4: Bjarnason, Elizabeth, Krzysztof Wnuk, and Bjorn Regnell. "Are you biting off more than you can chew? A case study on causes and effects of overscoping in large-scale software engineering." Information & Software Technology54.10 (2012): 1107-1124.
+
+SUM4: With the development of MDRE, there are more and more challenge come out that a product management must to face. Since there are lots of new and changed incoming requirement based on market situation and development of technology, that how to choose the requirement into next release become a huge problem. These chosen requirements sometimes will directly influence the scope of product. And scope of product will continuously change during the progress. But problem of overscoping happend a lot. Overscoping means that team set the scope that requirement more resources than the resource we have. So author make this case study to find out the answer for three questions. What lead to overscoping? what is the result of overscoping? how agile RE impact the overscoping?
+And the main research method is interviews and the result of interviews will be validated by questionnaire.
+The research target , in other words, the case company is a company has around 5000 employees and mainly develop the embedded systems for a global market.
+And the result of this case study is that the overscoping is caused by too fast moving MDRE, and caused by lots of incoming requirements. And overscoping will lead to some bad effort such as quality problem, delay progress and cannot satisfy the customer. And agile RE will close some communication gaps but also lead some problem such as more difficult in cost estimation.
+
+Good: I will describe the good thing in two part. First is the method part, this case study mainly use interview and questionnaire but they set the questionnaire as the validation of interview result which is good in my opinion. Second is the result part, the result of this case study is fully based on the real situation of the case company.
+
+Bad: Nothing bad about the result since the result is based on the case company, but the bad is also the case company. Scope management and overscoping are not the particular problem. It's a common problem. So I think if author want to know more about them, author need to focus on multiple case company. Compare the different and same part for different company. They can get more precise result.
+
+———————————————————————————————————————————————————————
+
+AR5: Wnuk, Krzysztof, et al. "Exploring factors affecting decision outcome and lead time in large-scale requirements engineering." Journal of Software: Evolution and Process 27.9 (2015): 647-673.
+
+SUM5: In MDRE, the product must be consistent with the target market requirements in order to create meaningful product. But in MDRE, the frequently change of market and customers' need will directly influence the decision making. It's important to analyze and make change to deal with the change fast. And the time need to make a decision and the effort of decision are very important in this situation, so the author want to find out the factor that influence them. In this article, author use two stage case study to find out the result. 
+First case study, authors analyze more than one thousands decision log to find out whether these factor(number of products, release number, and type of customer)will influence the lead time and decision. 
+Second case study, authors make a survey on 50 respondents, find out the factor influencing the decision and lead time, also validate the result from first case study.
+And the final result of these case studies can be summarized as:
+     
+      1. The number of products will influence the lead time, more number of products will increase the lead time.
+      2. There is no relationship between the number of release and lead time. But the influence of project' size, the process and the company's context still need more research to validate.
+      3. The result show when make a decision for large customer, the lead time will be shorter.
+      4. In the factor of acceptance(affects more number of product, change requests affecting late releases), two case study shows different result, still need more research to validate.
+      5. Rejecting a decision cost less time than accepting a decision, but two case study shows different result. Company want to please as many customer as possible, so the result are different in different case study. 
+
+Good: Methods good, result good, one more thing I want to say good personally. That is about the number of release. In the article "The art and science of release planning", I come out with a idea that the number of release will influence something in RE, release planning, or something related. I try to search some article but it seems there is no article about it. But in this article, the author think about it too. At least, it show me that the number of release will not influence the lead time and decision from the case study. That solve part of my problem. 
+
+Bad: Two bad thing about the result. First, only one case company which is large company using the SPL approach, that means from the case study, we cannot find out the relationship between the size of company, the process and the lead time. Second, there is a result that shows that the lead time will reduced if the decision is for a large customer, I think author should give a detail description about what is "large" customer. I think just use large or small is not enough.
+
+———————————————————————————————————————————————————————
+
+AR6: Carlshamre, Par, et al. "An industrial survey of requirements interdependencies in software product release planning." Requirements Engineering (2001): 84-91.
+
+SUM6: With the incremental systems development strategies become more and more popular, release planning is become more important, and there are six parameters of release planning: available resources, delivery time, requirement interdependencies, requirement priority, system architecture and dependencies to the code base. And this article is focus on the requirement interdependencies and requirement priority. Since the requirement priority is a important factor in release planning, but the interdependencies of requirement will also make influence on the selection of requirement. And author make a survey on five different companies(different size and different domain), and use a simple visualization technique of RQ interdependencies to five case.
+And based on the previous interviews, there are 6 interdependency type, AND, REQUIRES, TEMPORAL, CVALUE, ICOST, OR.
+The results of this research are following:
+      
+      1. There is no doubt that the interdependencies of requirements will influence the selection of requirement.
+      2. Very few requirements are responsible for a large number of interdependencies.
+      3. There are more functionality-related interdependencies(AND, REQUIRES) in bespoke software development, and more value-related interdependencies(ICOST, CVALUE) in product development.
+
+Good: Good thing is that this article research on five different case, so the result is comprehensive in my opinion. Another good thing is author divide the interdependencies into functionality-related and value-related. That means product manager can based on this research to distribute the resource and time more logical.
+
+Bad: Bad thing in my opinion, the division of six interdependency type is not good. I have read some article talked about interdependency. One article named "Requirements Interdependencies: State of the Art and Future Challenges " present a division of interdependency which I think is more detail and comprehensive. It divide the interdependency into Structural Interdependencies(Refined_to, Change_to, Similar_to, Requires), Constrain Interdependencies(Requires, Conflicts_with), Cost/Value Interdependencies(Increases/Decreases_cost_of, Increases/Decreases_value_of).
