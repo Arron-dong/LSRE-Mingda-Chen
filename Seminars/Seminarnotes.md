@@ -4,6 +4,7 @@ Nov 20, 2016：It's my first time to use Github, so I just find out how to show 
 
 Nov 22, 2016: Updated the result of homework of Seminars three.
 
+Dec 3, 2016：Updated the result of homework of Seminars four, I thought I already updated it early...
 
 Seminars One
 ———————————————————————————————————————————————————————
@@ -460,3 +461,41 @@ The results of this research are following:
 Good: Good thing is that this article research on five different case, so the result is comprehensive in my opinion. Another good thing is author divide the interdependencies into functionality-related and value-related. That means product manager can based on this research to distribute the resource and time more logical.
 
 Bad: Bad thing in my opinion, the division of six interdependency type is not good. I have read some article talked about interdependency. One article named "Requirements Interdependencies: State of the Art and Future Challenges " present a division of interdependency which I think is more detail and comprehensive. It divide the interdependency into Structural Interdependencies(Refined_to, Change_to, Similar_to, Requires), Constrain Interdependencies(Requires, Conflicts_with), Cost/Value Interdependencies(Increases/Decreases_cost_of, Increases/Decreases_value_of).
+
+———————————————————————————————————————————————————————
+
+Seminar 4
+
+AR1:Krzysztof Wnuk, Bjorn Regnell, Lena Karlsson, "What Happened to Our Features? Visualization and Understanding of Scope Change Dynamics in a Large-Scale Industrial Setting", 2009 17th IEEE International Requirements Engineering Conference.
+
+SUM1: With the development of software, every single software or a complex systems will contain thousands requirements and more. But the time and resource of development team is always not enough. So before every development project start or the next release, we need to decide which requirements need to be implement. And the process of selection called scoping which is a key process in the product development. And the change of scope will be influenced by changing market or the developing technologies. But the requirement management tool in lots of company cannot visualize and characterize this change. So author propose the Feature Survival Chart(FSC) to solve it.
+FSC is a chart that X-axis means that the scope changes over time, and the Y-axis means the different features. So the FSC will dynamically show the scope changes of every features over time. In this article, green color means in the scope, and red color means out the scope. And through this graph, we can directly see which decisions have been made when and how large impact on the scope they had. Also by using this graph, we can define the measurements which is used to indicate the quality of scoping.
+And three case company using this FSC and the result shows that the dominant trend is descoping or negative scoping. And need more understanding about the scope. So the author use quantitative characterization and qualitative rationale for scoping decisions to improve the visualization technique.
+
+Good: First good thing for FSC is its visible, we can directly see the how the decision we make and when the decision we make will influence the scope of product. Second good thing is FSC can give a real-time feedback to the project team so we can continually improve the process and product. Third good thing for FSC is that it is easy to learn and use. 
+
+Bad: Bad thing is that the generalization, in this research, author just use this FSC in one company, so the result of research cannot show that FSC can be used in lots of other case, the uncertain limitation is the first bad thing I think. 
+
+———————————————————————————————————————————————————————
+
+AR2:Krzysztof Wnuk, Tony Gorschek, Showayb Zahda, "Obsolete software requirements", Information and Software Technology, Volume 55, Issue 6, June 2013, Pages 921-940.
+
+SUM2: With the fast change of business environment, the high volatility and quick evolution of requirements become two huge problem, and lots of requirement become obsolete before the completion of project. And to cope with the fast change of requirement, the company need to identify the obsolete software requirements as soon as possible in order to pay more attention to the other requirements. So identification, handling and removal of these obsolete requirement is very important. And this article mainly present the result from an empirical study based on 219 respondents from different companies by survey, and the main target of the survey is to find out how these companies deal with the obsolete software requirements.
+And following are the result of this empirical study:
+     
+     1. The respondents think that OSR means the software requirement which is no longer required for now and future, don't have any business value for customers and users.
+	    2. Lots of respondents think OSR will influence the company whose domain is to develop software intensive products.	
+	    3. Lots of respondents reported they never deal with OSR before.
+	    4. The requirements for laws or standards seems to be more stable than the uncertain requirements.
+    	5. The requirements from domain expert seems to be more stable than the requirements from customer or internal staff.
+	    6. Identification of OSR is mainly done as manual activity.
+	    7. Lots of respondents think we cannot just delete the OSR because we can use them for reference or tracking something. Instead they think it's better to store the OSR and sign it as Obsolete.
+	    8. Lot of respondents reported that there is no tools for identification and handling of OSR.
+	    9. The identification of OSR seems to be passive.
+	    10. OSR seems to make more influence to the large scale requirement project.
+	    11. Most of respondents think that we need to deal with the OSR in requirement analysis phase and validation phase.
+	    12. Latency may not be the main factor for the problem of OSR.
+
+Good: Good thing is obviously, that author think about the OSR, to be honest, I read lots of articles and books to teach reader how to deal with the new incoming requirement, this is the first time I find someone is thinking about the OSR, and this article is just a report for the survey so it may not bring some knowledge or conclusion to me. But at least, this article show me a new area in requirement engineering and it's interesting.
+
+Bad: Just a report for the survey and the summary of conclusion is based on the result of survey. I really don't know whether the OSR will make bad influence to the project. I mean it's hard to balance the cost and benefit of dealing with OSR. So at least now, I didn't find something bad in this article, especially the idea about to deal with OSR.
