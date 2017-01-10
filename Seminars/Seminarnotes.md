@@ -6,6 +6,8 @@ Nov 22, 2016: Updated the result of homework of Seminars three.
 
 Dec 3, 2016：Updated the result of homework of Seminars four, I thought I already updated it early...
 
+Jan 10，2017：Read more and think more, make some change based on the feedback.
+
 Seminars One
 ———————————————————————————————————————————————————————
 
@@ -285,7 +287,8 @@ And the conclusion of this article is that in high level , we need to consider m
 
 Good: Author come out with some new idea which is really good I think, It show us that every incoming requirements need to be judged based on its relationship between other levels. And also the conclusion of this article is really good. Just like the goal of roadmapping that the value of every requirements need to be considered about based on the strategy。 
 
-Bad: Nothing bad in this article,
+Bad: In author's conclusion of this article, author said that they create a taxonomy of levels on which the impact of RE process changes can be assessed. I agree that author create a raxonomy of levels, but I think it is just a structure to tell us which factor will influence the RE process, but it cannot used to assess the RE process, for example, in the project level, author mentioned that poor estimation techniques should be a cause, but author didn't show us what is poor estimation techniques or what is good estimation techniques, to assess something I think we need a reference point, we need to know what is good, then we can think about the distance between good one and ours. So I think author just point out the influencing factor, cannot use for evaluating or checking.
+
 
 ———————————————————————————————————————————————————————
 
@@ -294,8 +297,8 @@ AR4:R. Berntsson Svensson, T. Gorschek, B. Regnell, R. Torkar, A. Shahrokni, R. 
 SUM4: Since the increases of different software and also the increases of complex of software, requirements engineering process become more and more important, and the product is based on its functional requirements and quality requirements. A success product means good function with good quality. We cannot just ignore the quality. Quality will also influence the market competitive strength. So the quality of product is very important but in fact, lots of company didn't consider about it. And this article will research on the 22 staffs from 11 different company in Sweden to know how these company deal with the quality. There are two kinds of company, first kind is to develop and sell software to other company. Another kind of company is to develop product for market.
 Then the author describe his research methodology and validty ways, and following are the conclusion:
 
-      1. For B2C, usability is the most important and for B2B, safety is the most important. So the most important quality requirements should be consider about based on company itself.
-      2. There is a close realationship between requirements and cvalue.
+      1. For B2C, usability is the most important and for B2B, safety is the most important. So the most important quality requirements should be consider about based on company itself.(but the research target is small, so the result of this conclusion is limited,for example, safety is very important in lots of company, but is not for all the company)
+      2. From the result of research, B2B company think that REQUIRES is the most important interdependency type and B2C think CVALUE is the most important interdependency type.
       3. For the cost estimation of QR, the result of research show that there is no direct difference between FR and QR. And the expert opinion is still the main method.
       4. There are almost 20% QR are dismissed in some phase during the whole project.
 More attention to QR will directly increase the market competitive strength of product. So the author think the company should focus on it.
@@ -378,7 +381,7 @@ SUM1: Recently, the software product management become more and more important w
 
 Good: This reference framework is very good for me now. After read lots of article about the product management, I was little bit confused about the relationship between different process. And this framework especially the Figure 1 inside this article, directly show me the relationship and also give a better understanding about the process of product management.
 
-Bad: Only one thing bad, in the Figure 1, I think need to add a another factor called Competitor company, maybe author think it is contained in the market. 
+Bad: At the past I think that author need to add a factor called "Competitor" into the figure1, because I think competitor is a important influencing factor for software product management, but with the learning, I think actually author didn't put lots of other factors which is less important in this figure. So I understand that author just want to show several most important factor. So my advice now is that add a factor called "Others", and shortly name, describe the other factor by text may be a good improvement for the reference framework.
 
 ———————————————————————————————————————————————————————
 
@@ -391,7 +394,7 @@ And this article also propose a process quality model used for requirements sele
 
 Good: This article is a introduction for the MDRE, there is no good or bad on MDRE, so we need to focus on whether the author introduce the MDRE in different aspect comprehensively. And after read the article, I think author describe the MDRE very well. Description of MDRE is detailed.  Key elements of MDRE are presented. Challenge and problem also been described. 
 
-Bad: The only thing I think no good is when author talk about the process quality, he divide the requirements into Alfa and Beta, I think this one-size-fits-all methods is not good. I know the author just want to propose a idea about to find out valuable requirement . But the evaluation of value of requirements is very complex. I think it's better if we can add more division into it or using other way to judge it. For example, as I read before, we can think about it in different abstraction level. Based on the relationship with high level requirements.
+Bad: Different project will have different product with different requirement, no two projects are same. The working structure can be one-size-fits-all, but still need some adjust when we use it in practice. It's same with RE methods, I know that there is some good one-size-fits-all methods that is because they divide the requirements into very detailed types. But in this article, author want to just divide the requirements into Alfa and Beta which I think is too broadly. It may be fits for little project, but not all.I know the author just want to propose a idea about to find out valuable requirement . But the evaluation of value of requirements is very complex. I think it's better if we can add more division into it or using other way to judge it. For example, as I read before, we can think about it in different abstraction level. Based on the relationship with high level requirements.
 
 ———————————————————————————————————————————————————————
 
@@ -413,6 +416,13 @@ Good: Lots of good thing for Scaled agile framework:
       4. Still continuously evolving based on world situation
  
 Bad: Nothing bad for scaled agile framework, but there are less description about what is scaled agile, in my opinion, scaled agile means that there are several agile teams need to work together. And to be honest, there is still some different opinion for what is the better or best method for scaled agile. As I know, for example, Scrum of Scrums(SoS), Large Scale Scrum(LeSS) and other the Scaled Agile Framwork(SAFe).
+Difference：
+     
+      1. SoS and LeSS only rely on Scrum, so it's good for some team that want to use Scrum in larger scale, but SAFe is based on Agile, think agile in a overall viewpoint. Transform the small agile team into large organization environment.It adapt different method(Scrum, Kanban and so on) for different team.
+      2. SoS is good for small organization, LeSS and SAFe are suitable for larger one.
+      3. SoS just define the least level structure, LeSS think about the portfolio level and SAFe think about the all company levels.
+      4. SoS and LeSS are suitable for low cost implementation team, and SAFe is suiatble for high one.
+We need to choose the way by identify the current situation of company.
 
 ———————————————————————————————————————————————————————
 
